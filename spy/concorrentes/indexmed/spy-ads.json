@@ -1,0 +1,134 @@
+{
+  "captured_at": "2026-10-21T19:53:42.152Z",
+  "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=1604783379835030&sort_data[direction]=desc&sort_data[mode]=total_impressions",
+  "total_cards": 6,
+  "total_ads_with_groups": 6,
+  "destinations": {
+    "https://enterprise.indexmed.com.br/curso-nr1": 3,
+    "https://www.indexmed.com.br/": 3
+  },
+  "creative_groups": [
+    {
+      "primary_text": "Palestra não evita multa da NR-1. O fiscal vai cobrar gestão documentada no PGR, sua equipe está pronta para isso? 🚀\nA nova NR-1 exige que riscos psicossociais sejam identificados com metodologia validada, registrados no Inventário de Riscos e incorporados ao PGR com evidências reais. Sem isso, a autuação é certa.\nCom o Curso Online de Adequação à NR-1 da Indexmed, seu RH e SESMT aprendem exatamente o que a fiscalização vai cobrar, como aplicar o COPSOQ II, gerar o gráfico semafórico de riscos por escala e estruturar as evidências do PGR com segurança jurídica. ✨\nNão deixe o desconhecimento virar multa! Capacite quem faz a SST acontecer na sua empresa com quem é referência no mercado.\nRH e SESMT estratégicos: transforme sobrecarga e riscos psicossociais em conformidade real! Garanta seu acesso ao curso agora por apenas R$ 89,90! 📚",
+      "cards": 3,
+      "total_ads": 3,
+      "pages": [
+        "Indexmed"
+      ],
+      "video_durations": [
+        "estático"
+      ],
+      "ctas": [
+        "Shop now"
+      ],
+      "captions": [
+        "ENTERPRISE.INDEXMED.COM.BR"
+      ],
+      "first_started": "2026-08-13",
+      "library_ids": [
+        "4575684589357447",
+        "1590116262821443",
+        "1615272440027587"
+      ],
+      "snapshot_url_sample": "https://www.facebook.com/ads/library/?id=4575684589357447"
+    },
+    {
+      "primary_text": "Sua empresa está pronta para a nova exigência da NR-1? A gestão de SST mais inteligente começa aqui! 🚀\nA NR-1 exige líderes preparados. Use a Indexmed para transformar dados de SST em estratégia de RH e proteger seu capital humano.\nTranstornos mentais destroem a produtividade corporativa. Com nosso software líder em SST, você blinda sua operação e garante a tranquilidade ✨\nNão deixe a complexidade da NR-1 te paralisar! Tenha o controle total e a segurança jurídica que sua empresa merece.\nRH estratégico: eleve sua entrega e produtividade! Conheça a plataforma com nosso teste de 10 dias gratuitos! 📞",
+      "cards": 3,
+      "total_ads": 3,
+      "pages": [
+        "Indexmed"
+      ],
+      "video_durations": [
+        "estático"
+      ],
+      "ctas": [
+        "Learn more"
+      ],
+      "captions": [
+        "INDEXMED.COM.BR"
+      ],
+      "first_started": "2026-05-14",
+      "library_ids": [
+        "2726915671021469",
+        "2025458421688293",
+        "3351282535045900"
+      ],
+      "snapshot_url_sample": "https://www.facebook.com/ads/library/?id=2726915671021469"
+    }
+  ],
+  "cards": [
+    {
+      "library_id": "4575684589357447",
+      "started": "2026-08-13",
+      "page_name": "Indexmed",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "Palestra não evita multa da NR-1. O fiscal vai cobrar gestão documentada no PGR, sua equipe está pronta para isso? 🚀\n\nA nova NR-1 exige que riscos psicossociais sejam identificados com metodologia validada, registrados no Inventário de Riscos e incorporados ao PGR com evidências reais. Sem isso, a autuação é certa.\n\nCom o Curso Online de Adequação à NR-1 da Indexmed, seu RH e SESMT aprendem exatamente o que a fiscalização vai cobrar, como aplicar o COPSOQ II, gerar o gráfico semafórico de riscos por escala e estruturar as evidências do PGR com segurança jurídica. ✨\n\nNão deixe o desconhecimento virar multa! Capacite quem faz a SST acontecer na sua empresa com quem é referência no mercado.\n\nRH e SESMT estratégicos: transforme sobrecarga e riscos psicossociais em conformidade real! Garanta seu acesso ao curso agora por apenas R$ 89,90! 📚",
+      "video_duration": null,
+      "link_caption": "ENTERPRISE.INDEXMED.COM.BR",
+      "cta_button": "Shop now",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=4575684589357447"
+    },
+    {
+      "library_id": "2726915671021469",
+      "started": "2026-05-14",
+      "page_name": "Indexmed",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "Sua empresa está pronta para a nova exigência da NR-1? A gestão de SST mais inteligente começa aqui! 🚀\n\nA NR-1 exige líderes preparados. Use a Indexmed para transformar dados de SST em estratégia de RH e proteger seu capital humano.\n\nTranstornos mentais destroem a produtividade corporativa. Com nosso software líder em SST, você blinda sua operação e garante a tranquilidade ✨\n\nNão deixe a complexidade da NR-1 te paralisar! Tenha o controle total e a segurança jurídica que sua empresa merece.\n\nRH estratégico: eleve sua entrega e produtividade! Conheça a plataforma com nosso teste de 10 dias gratuitos! 📞",
+      "video_duration": null,
+      "link_caption": "INDEXMED.COM.BR",
+      "cta_button": "Learn more",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=2726915671021469"
+    },
+    {
+      "library_id": "2025458421688293",
+      "started": "2026-05-27",
+      "page_name": "Indexmed",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "Sua empresa está pronta para a nova exigência da NR-1? A gestão de SST mais inteligente começa aqui! 🚀\n\nA NR-1 exige líderes preparados. Use a Indexmed para transformar dados de SST em estratégia de RH e proteger seu capital humano.\n\nTranstornos mentais destroem a produtividade corporativa. Com nosso software líder em SST, você blinda sua operação e garante a tranquilidade ✨\n\nNão deixe a complexidade da NR-1 te paralisar! Tenha o controle total e a segurança jurídica que sua empresa merece.\n\nRH estratégico: eleve sua entrega e produtividade! Conheça a plataforma com nosso teste de 10 dias gratuitos! 📞",
+      "video_duration": null,
+      "link_caption": "INDEXMED.COM.BR",
+      "cta_button": "Learn more",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=2025458421688293"
+    },
+    {
+      "library_id": "3351282535045900",
+      "started": "2026-05-14",
+      "page_name": "Indexmed",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "Sua empresa está pronta para a nova exigência da NR-1? A gestão de SST mais inteligente começa aqui! 🚀\n\nA NR-1 exige líderes preparados. Use a Indexmed para transformar dados de SST em estratégia de RH e proteger seu capital humano.\n\nTranstornos mentais destroem a produtividade corporativa. Com nosso software líder em SST, você blinda sua operação e garante a tranquilidade ✨\n\nNão deixe a complexidade da NR-1 te paralisar! Tenha o controle total e a segurança jurídica que sua empresa merece.\n\nRH estratégico: eleve sua entrega e produtividade! Conheça a plataforma com nosso teste de 10 dias gratuitos! 📞",
+      "video_duration": null,
+      "link_caption": "INDEXMED.COM.BR",
+      "cta_button": "Learn more",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=3351282535045900"
+    },
+    {
+      "library_id": "1590116262821443",
+      "started": "2026-08-18",
+      "page_name": "Indexmed",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "Palestra não evita multa da NR-1. O fiscal vai cobrar gestão documentada no PGR, sua equipe está pronta para isso? 🚀\n\nA nova NR-1 exige que riscos psicossociais sejam identificados com metodologia validada, registrados no Inventário de Riscos e incorporados ao PGR com evidências reais. Sem isso, a autuação é certa.\n\nCom o Curso Online de Adequação à NR-1 da Indexmed, seu RH e SESMT aprendem exatamente o que a fiscalização vai cobrar, como aplicar o COPSOQ II, gerar o gráfico semafórico de riscos por escala e estruturar as evidências do PGR com segurança jurídica. ✨\n\nNão deixe o desconhecimento virar multa! Capacite quem faz a SST acontecer na sua empresa com quem é referência no mercado.\n\nRH e SESMT estratégicos: transforme sobrecarga e riscos psicossociais em conformidade real! Garanta seu acesso ao curso agora por apenas R$ 89,90! 📚",
+      "video_duration": null,
+      "link_caption": "ENTERPRISE.INDEXMED.COM.BR",
+      "cta_button": "Shop now",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=1590116262821443"
+    },
+    {
+      "library_id": "1615272440027587",
+      "started": "2026-08-13",
+      "page_name": "Indexmed",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "Palestra não evita multa da NR-1. O fiscal vai cobrar gestão documentada no PGR, sua equipe está pronta para isso? 🚀\n\nA nova NR-1 exige que riscos psicossociais sejam identificados com metodologia validada, registrados no Inventário de Riscos e incorporados ao PGR com evidências reais. Sem isso, a autuação é certa.\n\nCom o Curso Online de Adequação à NR-1 da Indexmed, seu RH e SESMT aprendem exatamente o que a fiscalização vai cobrar, como aplicar o COPSOQ II, gerar o gráfico semafórico de riscos por escala e estruturar as evidências do PGR com segurança jurídica. ✨\n\nNão deixe o desconhecimento virar multa! Capacite quem faz a SST acontecer na sua empresa com quem é referência no mercado.\n\nRH e SESMT estratégicos: transforme sobrecarga e riscos psicossociais em conformidade real! Garanta seu acesso ao curso agora por apenas R$ 89,90! 📚",
+      "video_duration": null,
+      "link_caption": "ENTERPRISE.INDEXMED.COM.BR",
+      "cta_button": "Shop now",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=1615272440027587"
+    }
+  ]
+}

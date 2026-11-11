@@ -1,0 +1,49 @@
+{
+  "nome": "Mapa HDS",
+  "handle": "@mapahds",
+  "slides": [
+    {
+      "texto": "Em 1936, dois psicólogos abriram um dicionário de inglês e começaram a sublinhar palavras.\n\nQueriam saber quantas palavras existem pra descrever uma pessoa.\n\nA resposta mudou o jeito de medir personalidade.",
+      "img": "img/r1.jpg"
+    },
+    {
+      "texto": "Gordon Allport e Henry Odbert, de Harvard, passaram pelo dicionário inteiro.\n\nEncontraram 17.953 palavras que descrevem como alguém é ou se comporta.\n\nTímido. Teimoso. Calmo. Impulsivo. Generoso.",
+      "img": "img/r2.jpg"
+    },
+    {
+      "texto": "A ideia por trás era simples:\n\nSe uma característica importa na vida das pessoas, a língua cria uma palavra pra ela.\n\nOs psicólogos chamam isso de hipótese léxica."
+    },
+    {
+      "texto": "Só que ninguém consegue avaliar uma pessoa com 18 mil palavras.\n\nNos anos 1940, Raymond Cattell juntou os sinônimos e usou estatística pra ver quais características andavam juntas.\n\nChegou a 16 fatores.",
+      "img": "img/r4.jpg"
+    },
+    {
+      "texto": "Em 1961, dois pesquisadores da Força Aérea americana, Ernest Tupes e Raymond Christal, refizeram as contas com dados de militares.\n\nApareceram cinco grandes fatores. Em amostra após amostra.",
+      "img": "img/r5.jpg"
+    },
+    {
+      "texto": "Nas décadas seguintes, pesquisas em dezenas de países e idiomas encontraram uma estrutura parecida.\n\nEm 1981, Lewis Goldberg deu o nome que pegou: Big Five.\n\nAté hoje é a base da maior parte da pesquisa sobre personalidade."
+    },
+    {
+      "texto": "Repare no caminho:\n\n18 mil palavras. 16 fatores. 5 grandes dimensões.\n\nEm nenhum momento a ciência chegou a quatro tipos. Ela mede traços, e cada traço tem uma intensidade."
+    },
+    {
+      "texto": "Na prática, isso muda a pergunta.\n\nEm vez de \"que tipo essa pessoa é?\", a pergunta vira \"quanto ela tem de cada traço, e o que isso significa pro cargo?\"\n\nDuas pessoas com o mesmo rótulo podem ser muito diferentes no que importa pra função."
+    },
+    {
+      "texto": "E tem uma parte que nenhuma estatística resolve sozinha.\n\nAlguém precisa ler o resultado e cruzar com a vaga, com a entrevista e com o momento da pessoa.\n\nÉ trabalho de psicólogo.",
+      "img": "img/c1-leitura.jpg"
+    },
+    {
+      "texto": "É assim que a Mapa trabalha a avaliação de personalidade.\n\nO Teste de Personalidade da Mapa lê até 48 traços, em 5 áreas, do jeito de gerir ao comportamento em situação de risco.\n\nE mais de 80% do time da Mapa é formado por psicólogos.",
+      "img": "img/c1-capa.jpg"
+    },
+    {
+      "texto": "Quase 90 anos depois daquele dicionário, a pergunta continua a mesma:\n\nComo descrever uma pessoa com justiça?\n\nA resposta passa por medir direito e por ter alguém preparado pra ler o que foi medido."
+    },
+    {
+      "texto": "Mais de 1 milhão de avaliações depois, a gente segue fazendo essa pergunta todo dia.\n\nSe você avalia pessoas, salva esse post e manda pra quem decide contratação aí na sua empresa.",
+      "img": "img/c1-supervisor.jpg"
+    }
+  ]
+}

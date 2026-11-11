@@ -1,0 +1,46 @@
+SALA DE OPERAÇÕES MKTOPS — MAPA HDS
+===================================
+
+Esta Sala já vem configurada: pesquisa de mercado, espionagem dos
+concorrentes, contexto de marca e identidade visual prontos.
+
+
+1. INSTALE O CLAUDE CODE (uma vez só, na sua máquina)
+
+   Antes de tudo você precisa do Node 18 ou mais novo — baixe a
+   versão LTS em nodejs.org.
+
+   No Windows, instale também o Git for Windows:
+   git-scm.com/download/win
+
+   Depois, em qualquer terminal:
+
+       npm install -g @anthropic-ai/claude-code
+
+
+2. LIGUE O MOTOR (uma vez só, dentro desta pasta)
+
+   Abra o terminal DENTRO desta pasta e rode:
+
+       ./preparar.sh
+
+   No Mac: clique com o botão direito na pasta > Novo Terminal na Pasta.
+   No Windows: clique com o botão direito dentro da pasta > Git Bash Here.
+
+   Leva de 2 a 4 minutos na primeira vez. É ele que gera a arte dos
+   carrosséis e lê os anúncios dos concorrentes.
+
+
+3. ABRA A SALA E PEÇA
+
+       claude
+
+   E peça em português o que você quer. Exemplo:
+
+   "3 anúncios do Teste de Personalidade para psicólogas de RH."
+
+
+------------------------------------------------------------------
+
+Se alguma coisa travar, escreva "travei" e conte o que aconteceu.
+O passo a passo completo está no README.md.

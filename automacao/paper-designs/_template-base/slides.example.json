@@ -1,0 +1,144 @@
+{
+  "carousel": "carrossel-N-tema",
+  "handle": "@mapahds",
+  "totalSlides": 12,
+  "slides": [
+    {
+      "n": 1,
+      "kind": "cover",
+      "coverBlock": "Linha 1 da capa\nlinha 2\nlinha 3.\n\nLinha 5\nlinha 6\nlinha 7 com __destaque__.",
+      "coverHook": "Frase de gancho na cor da marca."
+    },
+    {
+      "n": 2,
+      "kind": "narrative",
+      "withImage": true,
+      "image": "assets/exemplo-final.jpg",
+      "eyebrow": "Eyebrow editorial",
+      "title": "Título médio com **negrito** opcional.",
+      "body": "Texto de body com **negrito** e __itálico__. Suporta \\n\\n para parágrafo."
+    },
+    {
+      "n": 3,
+      "kind": "scene",
+      "eyebrow": "Eyebrow",
+      "title": "Título grande para slide só de texto.",
+      "body": "Body 40px. Use parágrafos com \\n\\n para respirar."
+    },
+    {
+      "n": 4,
+      "kind": "mechlist",
+      "eyebrow": "A mecânica",
+      "title": "Título antes da lista paralela.",
+      "pairs": [
+        [
+          "Lado esquerdo (destaque)",
+          "lado direito (tag laranja)"
+        ],
+        [
+          "Outro par",
+          "destaque"
+        ]
+      ],
+      "closing": "Frase de fechamento opcional com **negrito**."
+    },
+    {
+      "n": 5,
+      "kind": "via-cards",
+      "withImage": true,
+      "image": "assets/exemplo2-final.jpg",
+      "eyebrow": "Categoria",
+      "title": "Título acima dos cards.",
+      "vias": [
+        {
+          "n": "01",
+          "label": "Label do card 1",
+          "text": "Descrição curta do primeiro caminho/causa/etapa."
+        },
+        {
+          "n": "02",
+          "label": "Label do card 2",
+          "text": "Descrição curta do segundo."
+        }
+      ],
+      "closing": "Frase de fechamento que conclui o ponto."
+    },
+    {
+      "n": 6,
+      "kind": "scenelist",
+      "eyebrow": "Cenas no seu dia",
+      "title": "Título antes da lista de cenas.",
+      "scenes": [
+        "Cena 1 com **palavra-chave** e mais texto descritivo.",
+        "Cena 2 com **outra**.",
+        "Cena 3.",
+        "Cena 4."
+      ],
+      "closing": "Frase em destaque para fechar."
+    },
+    {
+      "n": 7,
+      "kind": "principle",
+      "eyebrow": "O princípio",
+      "title": "Frase-bandeira do carrossel **com destaque**.",
+      "body": "Body opcional explicando a frase em texto menor."
+    },
+    {
+      "n": 8,
+      "kind": "rebuttal",
+      "eyebrow": "Crítica direta",
+      "title": "Título refutando uma ideia comum.",
+      "strike": "Frase popular que está errada (vai aparecer riscada).",
+      "strikeNote": "Razão curta",
+      "body": "Body explicando por que a frase popular falha e qual é a correção."
+    },
+    {
+      "n": 9,
+      "kind": "slam",
+      "withImage": true,
+      "image": "assets/exemplo3-final.jpg",
+      "eyebrow": "O que não pode acontecer",
+      "title": "Título principal punchy.",
+      "body": "Body curto em itálico cinza, suplementar.",
+      "finalLines": [
+        "Linha final 1 com **destaque**.",
+        "Linha final 2 com **destaque**."
+      ]
+    },
+    {
+      "n": 10,
+      "kind": "offer",
+      "eyebrow": "Como eu organizo",
+      "title": "Título da oferta/sistema.",
+      "pastaList": [
+        [
+          "Inbox",
+          "captura sem filtro"
+        ],
+        [
+          "Daily",
+          "uma nota por dia"
+        ],
+        [
+          "wiki",
+          "o que sobreviveu"
+        ]
+      ],
+      "pastaClosing": "Frase explicando o uso prático."
+    },
+    {
+      "n": 11,
+      "kind": "cta",
+      "eyebrow": "Se isso fez sentido pra você:",
+      "title": "**curte.**"
+    },
+    {
+      "n": 12,
+      "kind": "cta",
+      "eyebrow": "Próximo passo",
+      "title": "Título da chamada principal.",
+      "ctaCall": "comenta **PALAVRA** ou chama no direct.",
+      "body": "Frase curta de fechamento."
+    }
+  ]
+}

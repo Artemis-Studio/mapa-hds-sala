@@ -1,0 +1,104 @@
+{
+ "carousel": "carrossel-2-inventario-psicossocial",
+ "handle": "@mapahds",
+ "totalSlides": 10,
+ "slides": [
+  {
+   "n": 1,
+   "kind": "cover",
+   "withImage": true,
+   "image": "assets/c2-capa.jpg",
+   "coverBlock": "A média da empresa pode sair boa enquanto uma equipe inteira adoece.\n\n__5 jeitos__ de ler um inventário psicossocial além da norma.",
+   "coverHook": "Salva pra usar no próximo ciclo."
+  },
+  {
+   "n": 2,
+   "kind": "scene",
+   "eyebrow": "Leitura 1 · Recorte",
+   "title": "Abra o resultado por área, cargo e __GHE__.",
+   "body": "A média geral mistura o escritório com o turno da noite, a liderança com quem está na linha. Um risco alto num grupo pequeno some dentro de um número que parece tranquilo.\n\nO primeiro movimento é **recortar**. O lugar onde as pessoas estão adoecendo costuma ter endereço: uma área, um cargo, um grupo de exposição."
+  },
+  {
+   "n": 3,
+   "kind": "scene",
+   "eyebrow": "Leitura 2 · Cruzamento",
+   "title": "Cruze com o que a empresa __já registra__.",
+   "body": "Afastamentos, atestados, pedidos de demissão, acidentes, queixas no canal de ética. Esses dados já existem, só costumam ficar em gavetas diferentes.\n\nQuando o risco que apareceu no inventário **bate com o registro**, você tem um sinal forte. Quando não bate, tem uma pergunta boa pra fazer."
+  },
+  {
+   "n": 4,
+   "kind": "narrative",
+   "withImage": true,
+   "image": "assets/c2-campo.jpg",
+   "eyebrow": "Leitura 3 · Campo",
+   "title": "Volte ao lugar onde o risco apareceu.",
+   "body": "O questionário mostra onde olhar. Por que aquilo acontece, ele não explica sozinho. Pra isso é preciso **ouvir as pessoas** daquela equipe: conversa, entrevista, observação da rotina.\n\nÉ nessa etapa que o trabalhador é ouvido de verdade, e a causa costuma aparecer: carga, liderança, conflito, falta de clareza sobre o próprio trabalho."
+  },
+  {
+   "n": 5,
+   "kind": "narrative",
+   "withImage": true,
+   "image": "assets/c2-plano.jpg",
+   "eyebrow": "Leitura 4 · Plano",
+   "title": "Transforme cada risco num plano com dono.",
+   "body": "Um relatório sem plano de ação vira arquivo. Cada risco relevante precisa de **uma ação, um responsável e um prazo**, separados por área.\n\nEnvolva quem vai executar. RH, SST, liderança e medicina do trabalho olham o mesmo dado de lugares diferentes, e o plano fica melhor quando os quatro estão na mesa."
+  },
+  {
+   "n": 6,
+   "kind": "scene",
+   "eyebrow": "Leitura 5 · Ciclo",
+   "title": "Meça de novo e __compare__.",
+   "body": "A primeira aplicação é uma fotografia. O valor aparece no **segundo ciclo**, quando dá pra ver se o que foi feito mudou alguma coisa naquela equipe.\n\nGuarde o resultado com a empresa, no mesmo formato, pra comparação ser possível. Dado que fica com terceiro e muda de método a cada ano não permite comparar nada."
+  },
+  {
+   "n": 7,
+   "kind": "principle",
+   "eyebrow": "Por que isso importa",
+   "title": "O inventário é o __começo__ do trabalho.",
+   "body": "A norma pede que o risco psicossocial seja gerido. O motivo pra fazer isso bem é outro: **entender por que as pessoas adoecem** naquele ambiente e mudar o que for possível.\n\nAs cinco leituras levam o mesmo questionário de um documento arquivado pra uma gestão que acompanha as pessoas ano após ano."
+  },
+  {
+   "n": 8,
+   "kind": "scene",
+   "eyebrow": "Como começar",
+   "title": "Pegue o último resultado e faça só o __primeiro recorte__.",
+   "body": "Abra por área e por cargo. Marque os três grupos com o pior resultado e compare com os afastamentos e desligamentos do mesmo período.\n\nDepois, faça a pergunta que guia o resto: **o que está acontecendo com essas pessoas que a média não mostrou?**"
+  },
+  {
+   "n": 9,
+   "kind": "offer",
+   "eyebrow": "Inventário Psicossocial",
+   "title": "É esse trabalho que a Mapa faz com o Inventário Psicossocial.",
+   "pastaList": [
+    [
+     "Recorte",
+     "matriz de risco por área, cargo e GHE"
+    ],
+    [
+     "Relatórios",
+     "visões próprias pra SST, RH e liderança"
+    ],
+    [
+     "Campo",
+     "diagnóstico com psicólogos da Mapa onde o risco apareceu"
+    ],
+    [
+     "Plano",
+     "ação por área, com acompanhamento"
+    ],
+    [
+     "Dado",
+     "o histórico fica com a sua empresa"
+    ]
+   ],
+   "pastaClosing": "Um trabalho que vai além da norma."
+  },
+  {
+   "n": 10,
+   "kind": "cta",
+   "eyebrow": "Próximo passo",
+   "title": "Comenta __INVENTÁRIO__",
+   "ctaCall": "e a gente te mostra como fica a matriz de risco por área."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mktops-sala-completa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sala de Operações MktOps — método completo, espionagem de anúncios e render de carrossel.",
+  "dependencies": {
+    "puppeteer": "^24.0.0",
+    "sharp": "^0.34.0"
+  }
+}

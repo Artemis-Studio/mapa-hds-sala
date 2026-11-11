@@ -1,0 +1,158 @@
+[
+  {
+    "file": "15_1s-REVGNkI0.mp4",
+    "duration_s": 15.1,
+    "url": "https://video.ffln2-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQOvM_6rZvjT_jIMnVwzWahyoxjYlKZw4Ol489YoYALKiFCaqttLsJcV3_F9gJLCbKf0FnGF_iwv5XaC5UFxMyYniJ-WshLJ9UekUc0aRqQDMg.mp4?_nc_cat=100&_nc_oc=Adqhp00wOw6b4piVIIE5mcWPy7H4_aHyWeoAHAAmw_QkcA02WVaXVTp87Fsz3I3aUUnige5O735CBVFC0TjsM6pO&_nc_sid=b66105&_nc_ht=video.ffln2-3.fna.fbcdn.net&_nc_ohc=iXCRmYXko6oQ7kNvwGX-Y4M&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjYzMjI1OTY4Mjk1OTAxMywiYXNzZXRfYWdlX2RheXMiOjQxNCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=59daeb9fd458fb76&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xMDQ3QzIwQ0I4M0Y2Q0RDNEVCODMwOTkzQTMyNUE4MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM1NDBENDc4MEY3OEJENDBCQzcxNzg3REU4OUQ4QkE2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbK-vfcrcKfAhUCKAJDMywXQC4U_fO2RaIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=8dUV5Q7n9msykuJlLlST6g&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQMXnN7JF55cpNhZ47gUc87BqBG2Xd5ejPa0u-PHj96LpQ&oe=6ADEF6B4",
+    "anuncios": [
+      "1787939849216599",
+      "2130865847466538",
+      "1151049774246608"
+    ],
+    "mosaic": "15_1s-REVGNkI0-mosaic.jpg",
+    "transcript_skipped": "sem transcritor: npm install na pasta da skill (ou chave OPENAI_API_KEY/GROQ_API_KEY no .env)"
+  },
+  {
+    "file": "16_1s-RFRjI4Ng.mp4",
+    "duration_s": 16.1,
+    "url": "https://video.ffln2-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQOd-nH4zxgHCVPMoRyubmriJ28W7dX65Wd09_hEOHoxl8DotyQ6_m6lSmfZZnbEF_49x3feoMqFntvu7vWGjLJUaoNlHZal25pGqnWtjqaJBA.mp4?_nc_cat=110&_nc_oc=AdriDIj2FSDu43nM3Z-GZXljrHiF781vA6CiALqieXiVTJEr7dcmqoXxU6oybbh0TvmSIbnkotfVh-y-yi14NKEO&_nc_sid=b66105&_nc_ht=video.ffln2-3.fna.fbcdn.net&_nc_ohc=KTWwcqN2RS0Q7kNvwEJAxSk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQwNTc1NzYxNTc3OTc3OTgsImFzc2V0X2FnZV9kYXlzIjo0MTQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6113a7aab1dcaf12&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BNTREQzlDMDc3QzkyMDY1QkIyNkY2REYzNjkzMUM4Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM5NDQxNTQ0Mzc4Mzk2NUJBNTA3RUQ1QzJEMUQzRkEyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbM9saYgpa1DhUCKAJDMywXQDAIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=8dUV5Q7n9msykuJlLlST6g&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQOy75Q6L6WgHwUzgOgg4IHQIib0BWrqZ-HKDjkslZi6Pg&oe=6ADEF286",
+    "anuncios": [
+      "1787939849216599",
+      "2130865847466538",
+      "1546506426760029",
+      "1151049774246608"
+    ],
+    "mosaic": "16_1s-RFRjI4Ng-mosaic.jpg",
+    "transcript_skipped": "sem transcritor: npm install na pasta da skill (ou chave OPENAI_API_KEY/GROQ_API_KEY no .env)"
+  },
+  {
+    "file": "20s-ERUQ1REE.mp4",
+    "duration_s": 20,
+    "url": "https://video.ffln2-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQNoiH7Xgtgekh1YUi8aSFjgDpc6dpXTD6IFaAZxELYMFwo18X1DPa3J_Eib5uvzAkttJefNWZwReOIHLZ9bK_MMa9UXsZFKa-ZrUyOa4SQatw.mp4?_nc_cat=102&_nc_oc=AdrLi5YXFHVmdUQXqXWMVI7XAulNDougTZ-1FrEJ1Y9-rNVkxMXq24FuIW--kj7rnL-jpcxS0oBDCuKI0hlnGANR&_nc_sid=b66105&_nc_ht=video.ffln2-3.fna.fbcdn.net&_nc_ohc=5LrO6UWAjRQQ7kNvwH0a_lD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4MTg4MzYyNzU5NzYwNjIsImFzc2V0X2FnZV9kYXlzIjo3LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=c546d2cbc989390b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wOTA5QTdCREEyQkM0OUUyQTIyRDI1RTFCMTJCQTYyQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0RBOUU0NkZDMTREMzRGM0RCMjE0RDM0NUJDMTMzNEMxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb83ZKimo67BhUCKAJDMywXQDQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=8dUV5Q7n9msykuJlLlST6g&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQPGUTZTAvv8WCMelxHPmrIZqZ0hqMM4X3ml6xDm9T0ULA&oe=6ADED5DA",
+    "anuncios": [
+      "1092875096815439",
+      "2204601243806072",
+      "1813254146528272"
+    ],
+    "mosaic": "20s-ERUQ1REE-mosaic.jpg",
+    "transcript_skipped": "sem transcritor: npm install na pasta da skill (ou chave OPENAI_API_KEY/GROQ_API_KEY no .env)"
+  },
+  {
+    "file": "20_9s-ERjAxQjY.mp4",
+    "duration_s": 20.9,
+    "url": "https://video.ffln2-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQNiLWjPwFMa8_NxGX-nv3hXlKr4zWWnSEvFCXdhoJ6ZnSnxX4sScmPLsiuFOjW0g6GMWgHQoOOXKYB1jl9zSPg8HJIavEL0xgPFR1Qjz_1dXg.mp4?_nc_cat=106&_nc_oc=AdrBQmLdZvRd9n7j4F13Tjix2rYtwVAmr5MpeVLYniSZ9KiJatnKpWIhJoygh3zNmp2Q2yIzoBMkdiCvmRcw0bEj&_nc_sid=b66105&_nc_ht=video.ffln2-3.fna.fbcdn.net&_nc_ohc=YqxYgiOq6nEQ7kNvwFF6SPI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwMzk1OTk2MzMzOTU2NDgsImFzc2V0X2FnZV9kYXlzIjo3LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=a60b65064e19cf0f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BNzYzRTVCQ0U4OEI0M0E1OTc3RDQ1OTczMDEwNDU4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0E4NUQ0QTlENzUyMjQ5M0U5NDdBNjM0REU2NEVCM0EwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaAv4-6qcCfBxUCKAJDMywXQDTdsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=8dUV5Q7n9msykuJlLlST6g&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQNMeomwyFSxYvqX61IIhH8ZzJhA6CeUhC1nFB4Z0TpfDg&oe=6ADF01B6",
+    "anuncios": [
+      "1163561446019856",
+      "1092875096815439",
+      "1428007259453457"
+    ],
+    "mosaic": "20_9s-ERjAxQjY-mosaic.jpg",
+    "transcript_skipped": "sem transcritor: npm install na pasta da skill (ou chave OPENAI_API_KEY/GROQ_API_KEY no .env)"
+  },
+  {
+    "file": "21_2s-ERUUyQTY.mp4",
+    "duration_s": 21.2,
+    "url": "https://video.ffln2-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQPmxqo-UfPIcDfq_e6L5_cNdiC59O7KnDs7H0eHbYrO0LqdISDcQ7l4chKep4dA7UobHD3eF6PfAueN8ktR-Egt1dvDbSTa3jlDQRsG2vXUOw.mp4?_nc_cat=110&_nc_oc=AdpANH3Y6Rcyk8_Wd_Yg3Tw0X6IMRVHE3YpSL3WgwjOQkCc33THApf73w8QZJ9ajpc2bg4OuTaBeJbtiW9KYWXKz&_nc_sid=b66105&_nc_ht=video.ffln2-3.fna.fbcdn.net&_nc_ohc=Rb1R9nT0R40Q7kNvwG_TKes&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyMDA3MzA2ODc0NjA5MDYsImFzc2V0X2FnZV9kYXlzIjo3LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=68a435dc8658d1c5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83MzBDOTg0NUREODQ0NEI4OUVEODY5MDIzNTE1RTMwN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU2Q0ZCQ0VCQzQ2RjQ4QUJBMjU2Njc2RDk3RkNFRDY0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbU2PqtsePoBxUCKAJDMywXQDUzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=8dUV5Q7n9msykuJlLlST6g&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQPI2h2IKQLAXcE9wD5pXRw-7uVIoCR_xQ0ROncjM8_eBQ&oe=6ADEE2A6",
+    "anuncios": [
+      "1163561446019856",
+      "1092875096815439",
+      "1428007259453457"
+    ],
+    "mosaic": "21_2s-ERUUyQTY-mosaic.jpg",
+    "transcript_skipped": "sem transcritor: npm install na pasta da skill (ou chave OPENAI_API_KEY/GROQ_API_KEY no .env)"
+  },
+  {
+    "file": "26_2s-REVFRjFG.mp4",
+    "duration_s": 26.2,
+    "url": "https://video.ffln2-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQMLW_Z4RdknKTo9xzHFUo2Yq6dV-MWmvLeXWxkloX34UMx9nE1L4umHfiieoWSqO5G1duuWrS18vycL2DtqyoHLGyem6T1fYisTL6IgWwF6Tg.mp4?_nc_cat=105&_nc_oc=Adqh8CvVKmKWfnJBjLrZWoa3XvNKjirbyZIscozH9yUUQvCRmofTptnvJqkV1HilKLebn2DQNa-U3Qb0SIpAXhEY&_nc_sid=b66105&_nc_ht=video.ffln2-3.fna.fbcdn.net&_nc_ohc=ZLVENwlaQAAQ7kNvwGLi53X&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NDg0MTE1MDA0OTM0MDIsImFzc2V0X2FnZV9kYXlzIjoyMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e42fce0aff75fc22&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GMEM0MDQ4NzdGMzc0ODFFQjdCNUY3QzgxMTg5ODQ5Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y3MzBFN0IyREQ0QjQwRDJCNUNBRkZERjA0NEQ5QUJGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa06c3P0tSSBRUCKAJDMywXQDozMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=8dUV5Q7n9msykuJlLlST6g&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQMg20lOqIN7ctVbOWlreK97pvJR0n5XxB_IkdszvxMfjw&oe=6ADEEF1F",
+    "anuncios": [
+      "846865805155181",
+      "1801842764186624",
+      "1797342754620539",
+      "1696726425504210",
+      "1103166609063850",
+      "1833534978080584",
+      "1347284621808369"
+    ],
+    "mosaic": "26_2s-REVFRjFG-mosaic.jpg",
+    "transcript_skipped": "sem transcritor: npm install na pasta da skill (ou chave OPENAI_API_KEY/GROQ_API_KEY no .env)"
+  },
+  {
+    "file": "29_3s-REYwMTg5.mp4",
+    "duration_s": 29.3,
+    "url": "https://video.ffln2-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQO7hbar6sxek0kXpUqTPohj97_fNlI_NNm4vrCWE06vP7OQiB55EOsvdE8yACmtfAxJWH4lb_AVNp7DNoEKj5Zzm66jxI_dtemMqqRI92SzFw.mp4?_nc_cat=111&_nc_oc=AdopCwDH-7lhl4hnTZKd7KzgJquJpQ12kg1erOTugUdyEBJUHl-c3QgZKk5W0OfqWUpdSj2xAixog52dNUed-qW6&_nc_sid=b66105&_nc_ht=video.ffln2-3.fna.fbcdn.net&_nc_ohc=lsXlMnkdls8Q7kNvwGQCjaQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMDc3MzY0Njg3MDQyMzAsImFzc2V0X2FnZV9kYXlzIjoyNSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c2166c57d9237f08&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BQjRFQjkzNjY1MTgwMzJBRTA1QkE3NjY1MTg0NDU5NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y2QTNDREYzM0FGMzQ0M0NBMEUwNjZDN0ZENTgxNjlFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbMr8br3973AxUCKAJDMywXQD1EGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=8dUV5Q7n9msykuJlLlST6g&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQOWRiK-aboTVUvBLwIYI-T-l6GTO8lepgZgrQ0BhHAHNQ&oe=6ADF0189",
+    "anuncios": [
+      "2057118965229725",
+      "1036475186101592",
+      "2162904217630499",
+      "1408985057474063"
+    ],
+    "mosaic": "29_3s-REYwMTg5-mosaic.jpg",
+    "transcript_skipped": "sem transcritor: npm install na pasta da skill (ou chave OPENAI_API_KEY/GROQ_API_KEY no .env)"
+  },
+  {
+    "file": "30_1s-REVFMjQz.mp4",
+    "duration_s": 30.1,
+    "url": "https://video.ffln2-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQOBd6q-jOd76s-t7sqGfM8m4NB8VSFNoogAsmgMoC1mzBWWYPGGuJrUNRXAJlvOUxKJ6LL4Q4CLsPjrKNF_WG9cyix1g2opIPfnwL55Hq3MAQ.mp4?_nc_cat=105&_nc_oc=AdriTHjyflqcfDaFyNUrFIlfZV2CcIveeLrhyl4a-CNnNsOAYmdnzg4RkajWmQFEnSRCKrX7FbpMa40nLCBeJvtb&_nc_sid=b66105&_nc_ht=video.ffln2-3.fna.fbcdn.net&_nc_ohc=GiDk4KVLH4EQ7kNvwFEPiR5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMjQ3MDQwMDYyNzAxNzEsImFzc2V0X2FnZV9kYXlzIjoyMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c7878277536f9006&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FRjdCMTQ2MUVDQ0Y0NjMwQjlFNzBDRjZDMURDN0VBOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzhFMjkzNDdFNURDQTQyQUM5NkVEQkYxOEEyODEyMEU3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa2s8_79bPaBBUCKAJDMywXQD4KfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=sZujqRmhgBhgCknzkdxnyA&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQOTs0oA6ckTe-TLO5NSnlYCW0T4oFu0LRr1IiXmX6J9Jg&oe=6ADEE243",
+    "anuncios": [
+      "2057118965229725",
+      "1036475186101592",
+      "2244166189698583",
+      "2162904217630499",
+      "989029114218354",
+      "1408985057474063",
+      "2128503394728373",
+      "2965245350501630",
+      "1648817546917426",
+      "1007587705687569",
+      "1538801134666247"
+    ],
+    "mosaic": "30_1s-REVFMjQz-mosaic.jpg",
+    "transcript_skipped": "sem transcritor: npm install na pasta da skill (ou chave OPENAI_API_KEY/GROQ_API_KEY no .env)"
+  },
+  {
+    "file": "31_9s-REVFQjQ5.mp4",
+    "duration_s": 31.9,
+    "url": "https://video.ffln2-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQOYtMOIwomTCoBS-0ouwTmBR3m91vRV8USlCyXmwwJ4s_Ply4PfLrUhosm1ejBRhOSM_-RSHifsurwtAFEMnid655_tkyDOe5-zOO1n4o_Nkg.mp4?_nc_cat=103&_nc_oc=Adphr8dwwVUGQ7JrmxxlyJYLdI09ROJ4ool0ocFcQou7LsxglYVrIa3qwIai6JITAZfMvfC8bKqYKiKukim2pkVp&_nc_sid=b66105&_nc_ht=video.ffln2-3.fna.fbcdn.net&_nc_ohc=qOFxlBZcjl4Q7kNvwEf0Ydu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3ODYxNzg0MzkxMzg2ODIsImFzc2V0X2FnZV9kYXlzIjoyNSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a207126caab57829&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EQTRDMDY3ODA0REU4NjYzRDZGN0M4RThFRTZFNzI5NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ3NjBDMzE1RDE2MTQyQzBCMTU3MUI4MEMzOUREODc5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0tfa1oqGsBhUCKAJDMywXQD_dsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=8dUV5Q7n9msykuJlLlST6g&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQMp1PcGYfX7ZF8gdKY82Mg58pNHVXqxcgqiowuf5ALgRQ&oe=6ADEEB49",
+    "anuncios": [
+      "2168628144083509",
+      "1084681980940008",
+      "1092637663478235",
+      "2564384027320280"
+    ],
+    "mosaic": "31_9s-REVFQjQ5-mosaic.jpg",
+    "transcript_skipped": "sem transcritor: npm install na pasta da skill (ou chave OPENAI_API_KEY/GROQ_API_KEY no .env)"
+  },
+  {
+    "file": "39s-RFRUU0Mw.mp4",
+    "duration_s": 39,
+    "url": "https://video.ffln2-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQNdKYdjaMWdUmy1cYKfqBulAKxoVW__2I8VZeLnoyUqEb1DBV_N2361_wBMkNyRx5aE4aNeHn7qQizgTvuu-IFBesC0XCyoSm7V2_m8HWtckQ.mp4?_nc_cat=101&_nc_oc=Adrnz6NxfMP6Yd_vK5a2t0tbiMCNMMCZBd5f4tR6xTELJOB8I3aOaT5eAwSPpa_NfXRbIeq2VFfUKKd1NDZW5wjg&_nc_sid=b66105&_nc_ht=video.ffln2-3.fna.fbcdn.net&_nc_ohc=Swk6k3ZE8xgQ7kNvwEpbf1d&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1NTI5OTM2MDMxMjYwMTIsImFzc2V0X2FnZV9kYXlzIjoxNTYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=1e040ab22ba9b5e3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FODQ0MTdEREFDNjlGNkMyQzNBRTExQjFEMTlEODZBN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA1NEZCQ0ExQTIwMzE4NDhEMkVBRjhGOENGNjRGMEE4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb4i-yAkJzCBRUCKAJDMywXQENzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=8dUV5Q7n9msykuJlLlST6g&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQNEaLszAPOMN-SlZysgg81wMF0ZSkEnqEXfDuGy6MTcZA&oe=6ADEEE43",
+    "anuncios": [
+      "28228724926784763",
+      "3764204093732377"
+    ],
+    "mosaic": "39s-RFRUU0Mw-mosaic.jpg",
+    "transcript_skipped": "sem transcritor: npm install na pasta da skill (ou chave OPENAI_API_KEY/GROQ_API_KEY no .env)"
+  },
+  {
+    "file": "61_3s-RFRjJGNg.mp4",
+    "duration_s": 61.3,
+    "url": "https://video.ffln2-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQO50x3MeGIACU9275a5neyoo33h3s21ymvzKLwTmA-7UFCtmascsDEUWVMXsQgfl-MFLISZihtr9nrAHRNcaYndYbFbKfHSqPrZrYJI5Xx9eg.mp4?_nc_cat=102&_nc_oc=AdoT5TUvv2UsaPUO0G8rxatyxTSW1NNah9lN-c8X0KkfEG-91Ss3riHOLstKu4N2BOWW-amh_HWnl2kkQFgJkiLg&_nc_sid=b66105&_nc_ht=video.ffln2-3.fna.fbcdn.net&_nc_ohc=SnyLGysyWqcQ7kNvwHr-pQz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyNjkyMjgzNjg1MzM4NzMsImFzc2V0X2FnZV9kYXlzIjoxNTYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo2MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=fc56e44b3099c25c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wMDRCOUQ0RTJENEQ3MThGNzk1NDc0Q0MzNjI2NEY4RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0QxNEQ4ODY1Mjk0QkExNUE1RjRFMUY5QjhCQzdENkExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbi5dyg6JbBBBUCKAJDMywXQE6qn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=8dUV5Q7n9msykuJlLlST6g&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQO1DbVFISYUE76qQTDhjaxZOSHSREqI4Uwnu2WsiidLFg&oe=6ADEF2F6",
+    "anuncios": [
+      "1088413410797894",
+      "1453350059968074"
+    ],
+    "mosaic": "61_3s-RFRjJGNg-mosaic.jpg",
+    "transcript_skipped": "sem transcritor: npm install na pasta da skill (ou chave OPENAI_API_KEY/GROQ_API_KEY no .env)"
+  },
+  {
+    "file": "61_6s-REYwMUZB.mp4",
+    "duration_s": 61.6,
+    "url": "https://video.ffln2-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQNgCAjumkZuCz7DaYLPFQJaRAzIFDeyjvejI4yCnWJFKxTb69vZ62zhLeBordFoHjgNKN5iZiSZh5tmNbWfc0IRPdl2LWgbxV57ZQE7qzoOKQ.mp4?_nc_cat=110&_nc_oc=Adpyo78wY5zVfVK-y58bSnb9g4rSTfCMQ6YUoMMOJjuSK2KQbAALyQAGX83jziqhxH8GauyAnpd4eubU2mh28LnL&_nc_sid=b66105&_nc_ht=video.ffln2-3.fna.fbcdn.net&_nc_ohc=rTZ943o96XgQ7kNvwHuSwaq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4MDg3MzgzOTY5ODMwMDMsImFzc2V0X2FnZV9kYXlzIjozOSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjYxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=37f351bd36b66c5e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNTQxRjQ2QTcwOTkxQ0Y0OTNBRjczMTU5MEY0ODc5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U3NEE3QUI0NTBERjk1RUQ1MEUxNDY4NTMzMjUxREI4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa2u6aat8K2BhUCKAJDMywXQE67peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=8dUV5Q7n9msykuJlLlST6g&_nc_ss=79289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQMOenW1I5HX3TSbLEtcLiGCr3PtOD7O8CPAUXZbT8KDIQ&oe=6ADF01FA",
+    "anuncios": [
+      "1088413410797894",
+      "1453350059968074"
+    ],
+    "mosaic": "61_6s-REYwMUZB-mosaic.jpg",
+    "transcript_skipped": "sem transcritor: npm install na pasta da skill (ou chave OPENAI_API_KEY/GROQ_API_KEY no .env)"
+  }
+]

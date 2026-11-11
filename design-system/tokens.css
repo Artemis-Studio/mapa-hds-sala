@@ -1,0 +1,40 @@
+/* Mapa HDS — tokens do design system
+   Fonte da verdade: design-system/design-system.md (Manual de Identidade Visual 2025)
+   Nenhuma cor fora deste arquivo entra numa peça. Roxo é proibido (cor de concorrente). */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=Roboto:wght@400;500;700&display=swap');
+
+:root {
+  /* principais */
+  --mapa-orange: #FF560B;      /* Orange (Pantone) — cor da marca */
+  --mapa-amber: #FF971A;       /* Princeton Orange — ícone Personalidade */
+  --mapa-petrol: #065156;      /* Midnight Green — ícone Psicossocial */
+  --mapa-navy: #162F42;        /* Prussian Blue */
+  --mapa-red: #D94021;         /* Chilli Red — ícone Avaliações e resultados */
+  --mapa-ink: #1A1A1A;         /* Eerie Black */
+  --mapa-white: #FFFFFF;
+
+  /* secundárias */
+  --mapa-mist: #E4EEF0;        /* Alice Blue — fundo claro alternativo */
+  --mapa-mustard: #FFDE5A;
+  --mapa-tiffany: #6BD0D8;
+  --mapa-tangerine: #FF9469;
+  --mapa-orange-deep: #EC691B; /* Spanish Orange */
+  --mapa-teal: #549EA3;        /* Moonstone */
+  --mapa-coral: #FF5D38;
+
+  /* papéis */
+  --bg: var(--mapa-white);
+  --bg-soft: var(--mapa-mist); /* fundo claro alternativo (capas e slides de respiro) */
+  --text: var(--mapa-ink);
+  --text-muted: rgba(26, 26, 26, 0.62);
+  --accent: var(--mapa-orange); /* sobre branco só em título grande (3,2:1) */
+  --accent-text: var(--mapa-red); /* destaque em texto menor sobre branco (4,5:1) */
+  --dark: var(--mapa-navy);
+  --line: rgba(26, 26, 26, 0.12);
+
+  --f-display: 'Poppins', system-ui, sans-serif;  /* títulos: Poppins Bold */
+  --f-body: 'Roboto', system-ui, sans-serif;      /* corpo: Roboto Regular */
+
+  --radius-icon: 22%;           /* ícones em quadrado arredondado */
+  --radius-photo: 28px;         /* blocos de foto com canto arredondado */
+}

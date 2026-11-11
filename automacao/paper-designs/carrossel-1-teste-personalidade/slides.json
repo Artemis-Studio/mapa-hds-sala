@@ -1,0 +1,100 @@
+{
+ "carousel": "carrossel-1-teste-personalidade",
+ "handle": "@mapahds",
+ "totalSlides": 10,
+ "slides": [
+  {
+   "n": 1,
+   "kind": "cover",
+   "withImage": true,
+   "image": "assets/c1-capa.jpg",
+   "coverBlock": "Você vai decidir uma vaga crítica olhando um relatório.\n\n__5 perguntas__ pra fazer ao instrumento antes de confiar nele.",
+   "coverHook": "Salva o post. Ele serve na próxima vaga."
+  },
+  {
+   "n": 2,
+   "kind": "narrative",
+   "withImage": true,
+   "image": "assets/c1-leitura.jpg",
+   "eyebrow": "Pergunta 1 · Leitura",
+   "title": "Quem vai ler o resultado?",
+   "body": "Um relatório de personalidade é um conjunto de escalas. Sozinho, ele não diz se a pessoa serve pro cargo. Quem faz essa ponte é a **leitura de um psicólogo**, que cruza o resultado com a vaga e com a entrevista.\n\nSe o relatório vai direto pro gestor sem essa leitura, a decisão fica com quem tem menos ferramenta pra interpretar."
+  },
+  {
+   "n": 3,
+   "kind": "scene",
+   "eyebrow": "Pergunta 2 · Comparação",
+   "title": "Com quem a pessoa foi __comparada__?",
+   "body": "Um escore só faz sentido diante de um **grupo de referência**. \"Alto em organização\" quer dizer alto em relação a alguém.\n\nPergunte ao fornecedor qual é essa base, de onde ela vem e se tem gente parecida com quem você está avaliando. Um grupo de referência distante do seu candidato distorce tudo o que vem depois."
+  },
+  {
+   "n": 4,
+   "kind": "scene",
+   "eyebrow": "Pergunta 3 · Evidência",
+   "title": "O instrumento tem estudo de __validade__?",
+   "body": "Todo teste promete medir alguma coisa. O que separa instrumento de questionário é a **evidência de que ele mede** o que diz medir, publicada e possível de consultar.\n\nPeça o material técnico. Se a resposta for só um folheto comercial, você está decidindo uma contratação com base numa promessa."
+  },
+  {
+   "n": 5,
+   "kind": "narrative",
+   "withImage": true,
+   "image": "assets/c1-supervisor.jpg",
+   "eyebrow": "Pergunta 4 · Profundidade",
+   "title": "Ele mostra intensidade ou só um rótulo?",
+   "body": "Duas pessoas com o mesmo rótulo podem ser muito diferentes no que importa pro cargo. Um bom instrumento mostra **quanto** de cada traço, em várias áreas, e permite enxergar a combinação.\n\nNuma vaga em que um deslize custa caro pra equipe, a diferença entre \"tem\" e \"tem muito\" é a parte que você precisa ver."
+  },
+  {
+   "n": 6,
+   "kind": "scene",
+   "eyebrow": "Pergunta 5 · Devolutiva",
+   "title": "A pessoa avaliada vai receber uma __devolutiva__?",
+   "body": "Quem responde um teste entrega algo pessoal. Explicar o resultado, mesmo pra quem não foi aprovado, é uma questão de **respeito com quem foi avaliado**.\n\nTambém é um sinal de qualidade: se o resultado não pode ser explicado com clareza pra própria pessoa, ele não deveria sustentar uma decisão sobre ela."
+  },
+  {
+   "n": 7,
+   "kind": "principle",
+   "eyebrow": "Por que isso importa",
+   "title": "Um teste vale pelo __diagnóstico__ que ele permite fazer.",
+   "body": "As cinco perguntas apontam pra mesma coisa: o instrumento precisa ser sólido e alguém preparado precisa ler o que ele mostra. Faltando uma das duas, o resultado vira palpite com gráfico.\n\nE o diagnóstico errado custa pros dois lados. A empresa decide mal e a pessoa é julgada por algo que o teste não mediu."
+  },
+  {
+   "n": 8,
+   "kind": "scene",
+   "eyebrow": "Como começar",
+   "title": "Na próxima vaga crítica, leve as __5 perguntas__ pro fornecedor.",
+   "body": "Anote as respostas lado a lado com o instrumento que você usa hoje. A pergunta que ficar sem resposta mostra onde está o risco.\n\nComece pela terceira. Pedir o **material técnico** é o jeito mais rápido de saber com o que você está trabalhando."
+  },
+  {
+   "n": 9,
+   "kind": "offer",
+   "eyebrow": "Como a Mapa trabalha",
+   "title": "É assim que a Mapa trabalha a avaliação de personalidade.",
+   "pastaList": [
+    [
+     "Leitura",
+     "psicólogos da Mapa leem o resultado quando a empresa não tem psicólogo no time"
+    ],
+    [
+     "Profundidade",
+     "até **48 traços**, em 5 áreas, do jeito de gerir ao comportamento em situação de risco"
+    ],
+    [
+     "Sob medida",
+     "competências do seu cargo parametrizadas dentro do teste"
+    ],
+    [
+     "Escala",
+     "mais de **1 milhão de avaliações** aplicadas"
+    ]
+   ],
+   "pastaClosing": "Uma empresa de psicólogos, com instrumento próprio."
+  },
+  {
+   "n": 10,
+   "kind": "cta",
+   "eyebrow": "Próximo passo",
+   "title": "Comenta __VAGA__",
+   "ctaCall": "e a gente te manda o material de como ler um relatório de personalidade."
+  }
+ ]
+}

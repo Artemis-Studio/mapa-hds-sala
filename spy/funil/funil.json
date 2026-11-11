@@ -1,0 +1,76 @@
+{
+  "destinos_total": 3,
+  "lidos": 3,
+  "paginas": [
+    {
+      "url": "https://www.mapahds.com/consultoria-rh",
+      "ads": null,
+      "url_final": "https://www.mapahds.com/consultoria-rh",
+      "titulo": "Mapa HDS - Entenda o ser humano e sua relação com o trabalho",
+      "descricao": "A Mapa é uma empresa que possui testes psicológicos que permitem uma análise de aspectos psicológicos para o entendimento da saúde emocional.",
+      "arquivo_texto": "1-mapahds.com.txt",
+      "h1": [
+        "Plataforma",
+        "Onde atuamos",
+        "A Mapa"
+      ],
+      "precos": [],
+      "checkout": [],
+      "whatsapp": [],
+      "formularios": [],
+      "contador": false,
+      "builder": [
+        "wordpress"
+      ],
+      "links_de_checkout": [],
+      "caracteres": 8296
+    },
+    {
+      "url": "https://www.mapahds.com/contato",
+      "ads": null,
+      "url_final": "https://www.mapahds.com/contato",
+      "titulo": "Entre em contato | Mapa",
+      "descricao": "A Mapa tem Instrumentos e Soluções que permitem sua empresa ter o entendimento completo das competências emocionais dos trabalhadores.",
+      "arquivo_texto": "2-mapahds.com.txt",
+      "h1": [
+        "Plataforma",
+        "Onde atuamos",
+        "A Mapa"
+      ],
+      "precos": [],
+      "checkout": [],
+      "whatsapp": [],
+      "formularios": [],
+      "contador": false,
+      "builder": [
+        "wordpress"
+      ],
+      "links_de_checkout": [],
+      "caracteres": 1216
+    },
+    {
+      "url": "https://materiais.mapahds.com/planner-nr-1/",
+      "ads": null,
+      "url_final": "https://materiais.mapahds.com/planner-nr-1/",
+      "titulo": "Planner NR-1",
+      "descricao": "Tudo o que sua empresa precisa para se ajustar às novas exigências, garantindo segurança, saúde e bem-estar no ambiente de trabalho.",
+      "arquivo_texto": "3-materiais.mapahds.com.txt",
+      "h1": [
+        "Planner de adequação à NR-1",
+        "Tudo o que sua empresa precisa para se ajustar às novas exigências, garantindo segurança, saúde e bem-estar no ambiente de trabalho",
+        "📥 Baixe agora e comece a adequação!"
+      ],
+      "precos": [],
+      "checkout": [],
+      "whatsapp": [],
+      "formularios": [],
+      "contador": false,
+      "builder": [
+        "wordpress",
+        "elementor"
+      ],
+      "links_de_checkout": [],
+      "caracteres": 2214
+    }
+  ]
+}

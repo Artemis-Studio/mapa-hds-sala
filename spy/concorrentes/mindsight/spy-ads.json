@@ -1,0 +1,648 @@
+{
+  "captured_at": "2026-10-21T19:51:38.688Z",
+  "source_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=1729004243986158&sort_data[direction]=desc&sort_data[mode]=total_impressions",
+  "total_cards": 20,
+  "total_ads_with_groups": 20,
+  "destinations": {
+    "https://mindsight.com.br/lp-sistemarh/": 2,
+    "https://conteudos.mindsight.com.br/masterclass-metas-2027-o-que-realmente-merece-virar-prioridade-no-rh-inscrição": 1,
+    "https://conteudos.mindsight.com.br/calculadora-custo-turnover": 3,
+    "http://fb.me/": 4,
+    "https://conteudos.mindsight.com.br/recrutamento-e-selecao-lp": 4,
+    "https://conteudos.mindsight.com.br/whitepaper-diagnostico-cultura": 1,
+    "https://conteudos.mindsight.com.br/checklist-como-melhorar-a-experiência-do-candidato": 1,
+    "https://conteudos.mindsight.com.br/planejamento-e-orçamento-de-rh": 1,
+    "https://conteudos.mindsight.com.br/rh-no-pos-avd": 1,
+    "https://conteudos.mindsight.com.br/10-perguntas-antes-de-contratar-testes": 1,
+    "https://conteudos.mindsight.com.br/gestão-de-performance-contínua": 1
+  },
+  "creative_groups": [
+    {
+      "primary_text": "Pergunta séria: o que você faria se todo o trabalho operacional do seu RH fosse resolvido em minutos? ⏱️\nA gente sabe que a pesquisa de clima não foi para frente e o plano de sucessão ficou para depois porque falta braço. O operacional consome todo o seu tempo. Mas com a Inteligência Artificial da Mindsight, isso deixou de ser um problema.\nVocê descreve o que precisa em formato de texto e a plataforma executa. Sentiu um problema no time comercial? A IA monta e dispara uma pesquisa de pulso anonimizada. Precisa de um ciclo de avaliação completo para a área de Tecnologia? A plataforma estrutura as competências e os prazos sem nenhuma parametrização manual. Você refina, ajusta e publica do seu jeito.\nTudo o que o RH sempre quis fazer, mas nunca teve tempo, agora é possível.\n🎯 Preencha o formulário no link e descubra como destravar o potencial estratégico da sua gestão de talentos",
+      "cards": 2,
+      "total_ads": 2,
+      "pages": [
+        "Mindsight"
+      ],
+      "video_durations": [
+        "0:49",
+        "0:50"
+      ],
+      "ctas": [
+        "Learn more",
+        "See details"
+      ],
+      "captions": [
+        "MINDSIGHT.COM.BR",
+        "FB.ME"
+      ],
+      "first_started": "2026-09-18",
+      "library_ids": [
+        "2081132289246275",
+        "2165703920961704"
+      ],
+      "snapshot_url_sample": "https://www.facebook.com/ads/library/?id=2081132289246275"
+    },
+    {
+      "primary_text": "Você sabe qual o impacto financeiro da rotatividade na sua empresa? \nCalcule sua Taxa de Turnover em segundos com a calculadora e gerencie melhor seus resultados. Baixe Agora Mesmo!\nBaixe gratuitamente",
+      "cards": 2,
+      "total_ads": 2,
+      "pages": [
+        "Mindsight"
+      ],
+      "video_durations": [
+        "estático"
+      ],
+      "ctas": [
+        "Download"
+      ],
+      "captions": [],
+      "first_started": "2026-08-14",
+      "library_ids": [
+        "2974272806247066",
+        "1769883350859897"
+      ],
+      "snapshot_url_sample": "https://www.facebook.com/ads/library/?id=2974272806247066"
+    },
+    {
+      "primary_text": "O planejamento de 2027 já começou por aí? 👀\nNa nossa próxima masterclass, vamos compartilhar o que aprendemos apoiando empresas com dados e inteligência em gestão de pessoas, trazendo essa experiência para ajudar você a definir prioridades e planejar os próximos passos para 2027.\n🔗 Inscreva-se gratuitamente pelo link da bio!\n#estrategiaderh #metasrh",
+      "cards": 1,
+      "total_ads": 1,
+      "pages": [
+        "Mindsight"
+      ],
+      "video_durations": [
+        "estático"
+      ],
+      "ctas": [
+        "Learn more"
+      ],
+      "captions": [
+        "CONTEUDOS.MINDSIGHT.COM.BR"
+      ],
+      "first_started": "2026-10-15",
+      "library_ids": [
+        "942538281908785"
+      ],
+      "snapshot_url_sample": "https://www.facebook.com/ads/library/?id=942538281908785"
+    },
+    {
+      "primary_text": "O que o RH sempre buscou foi ter tempo, estrutura e recursos para gerar impacto de verdade: participar das decisões do negócio, desenvolver lideranças, desenhar processos mais inteligentes e transformar dados em melhores decisões para as pessoas.\nÉ dessa percepção que nasce a nova plataforma da Mindsight.\nA partir de agora, apresentamos o nosso novo posicionamento e compartilhamos com você a visão que vai orientar os próximos passos da empresa: um em que a tecnologia deixa de ser uma ferramenta para automatizar tarefas e passa a ampliar a capacidade do RH de fazer o que antes parecia impossível.\nO RH como deve ser. Ao seu alcance",
+      "cards": 1,
+      "total_ads": 1,
+      "pages": [
+        "Mindsight"
+      ],
+      "video_durations": [
+        "0:38"
+      ],
+      "ctas": [
+        "See details"
+      ],
+      "captions": [
+        "CONTEUDOS.MINDSIGHT.COM.BR"
+      ],
+      "first_started": "2026-09-22",
+      "library_ids": [
+        "991219887313157"
+      ],
+      "snapshot_url_sample": "https://www.facebook.com/ads/library/?id=991219887313157"
+    },
+    {
+      "primary_text": "Contratar os melhores talentos não adianta se a sua cultura os expulsa em menos de 6 meses. 🚪\nComo o seu RH tem medido o alinhamento cultural hoje? Se a resposta envolve \"intuição\", está na hora de elevar a maturidade da sua gestão.\nPreparamos um Whitepaper Exclusivo mostrando a ciência por trás de um Diagnóstico de Cultura eficiente. Entenda como transformar a essência da sua empresa em uma ferramenta de atração e engajamento.\n🔗 Clique aqui, visite nossa página e baixe o seu material gratuito\nBaixe gratuitamente",
+      "cards": 1,
+      "total_ads": 1,
+      "pages": [
+        "Mindsight"
+      ],
+      "video_durations": [
+        "estático"
+      ],
+      "ctas": [
+        "Download"
+      ],
+      "captions": [],
+      "first_started": "2026-08-14",
+      "library_ids": [
+        "1432870308770355"
+      ],
+      "snapshot_url_sample": "https://www.facebook.com/ads/library/?id=1432870308770355"
+    },
+    {
+      "primary_text": "seu RH leva problemas ou respostas prontas para a mesa da diretoria? 📊\nUm RH comum espera o ciclo anual de pesquisa para entender o clima ou descobre que o turnover subiu só depois que os melhores talentos já saíram. Um RH de ponta antecipa o problema, cruza dados de engajamento e comportamento, e chega na reunião com o diagnóstico completo e o plano de ação desenhado.\nFazer isso exige tempo, equipe e orçamento... pelo menos até agora. A Mindsight se reinventou e aplicou Inteligência Artificial nativa em todos os processos de gente. Descomplique o operacional e ganhe a força analítica de um time inteiro, sem precisar aumentar o seu headcount.\n🎯 Preencha o formulário no link e descubra como o RH que só as grandes empresas tinham agora está ao seu alcance",
+      "cards": 1,
+      "total_ads": 1,
+      "pages": [
+        "Mindsight"
+      ],
+      "video_durations": [
+        "0:59"
+      ],
+      "ctas": [
+        "See details"
+      ],
+      "captions": [
+        "CONTEUDOS.MINDSIGHT.COM.BR"
+      ],
+      "first_started": "2026-09-22",
+      "library_ids": [
+        "1058522867071602"
+      ],
+      "snapshot_url_sample": "https://www.facebook.com/ads/library/?id=1058522867071602"
+    },
+    {
+      "primary_text": "Os melhores talentos estão desistindo do seu processo seletivo no meio do caminho? 🏃♂️💨\nA verdade é dura: um processo seletivo longo, sem clareza e com falhas de comunicação não testa a resiliência do candidato, apenas empurra os melhores profissionais direto para a concorrência. A experiência do candidato é o primeiro reflexo da cultura da sua empresa.\nPara te ajudar a auditar e otimizar cada etapa da sua contratação, criamos o Checklist da Jornada do Candidato. Um material prático e direto ao ponto para você identificar gargalos, reduzir fricções e parar de perder bons profissionais.\nTransforme sua atração de talentos.\n📋 Acesse a página e baixe o seu checklist gratuito agora mesmo\nBaixe gratuitamente",
+      "cards": 1,
+      "total_ads": 1,
+      "pages": [
+        "Mindsight"
+      ],
+      "video_durations": [
+        "estático"
+      ],
+      "ctas": [
+        "Download"
+      ],
+      "captions": [],
+      "first_started": "2026-08-14",
+      "library_ids": [
+        "1397301535662497"
+      ],
+      "snapshot_url_sample": "https://www.facebook.com/ads/library/?id=1397301535662497"
+    },
+    {
+      "primary_text": "O seu RH participa ativamente das decisões estratégicas ou apenas recebe o orçamento pronto da diretoria? 📊\nPara conquistar um lugar na mesa de decisões, o RH precisa falar a língua do negócio. Defender investimentos em pessoas exige mais do que boas intenções; exige a conexão clara entre contexto, indicadores e impacto financeiro.\nPreparamos o Guia definitivo de Planejamento e Orçamento de RH. Um e-book completo para você aprender a estruturar seu budget, prever custos de headcount e provar o ROI das suas ações de gestão de talentos.\nSaia do operacional e torne-se um parceiro estratégico do negócio.\n📖 Acesse a nossa página e baixe o e-book gratuitamente\nBaixe gratuitamente",
+      "cards": 1,
+      "total_ads": 1,
+      "pages": [
+        "Mindsight"
+      ],
+      "video_durations": [
+        "estático"
+      ],
+      "ctas": [
+        "Download"
+      ],
+      "captions": [],
+      "first_started": "2026-08-14",
+      "library_ids": [
+        "2815357502157114"
+      ],
+      "snapshot_url_sample": "https://www.facebook.com/ads/library/?id=2815357502157114"
+    },
+    {
+      "primary_text": "O RH passa dias conhecendo uma pessoa durante o processo seletivo e, depois da contratação, age como se nunca tivesse visto ela antes. 👀\nMas isso era passado ✋🏾. Com a Mindsight, os dados da seleção não morrem na admissão: eles continuam guiando decisões de desenvolvimento e performance ao longo da jornada.\nPraa gente, é aqui que a IA fica realmente interessante, quando ela não serve só para acelerar processos, mas para conectar o que o RH já sabe e transformar informação em decisão. 💜\nToque no botão para saber mais sobre a Mindsight",
+      "cards": 1,
+      "total_ads": 1,
+      "pages": [
+        "Mindsight"
+      ],
+      "video_durations": [
+        "1:52"
+      ],
+      "ctas": [
+        "See details"
+      ],
+      "captions": [
+        "CONTEUDOS.MINDSIGHT.COM.BR"
+      ],
+      "first_started": "2026-10-15",
+      "library_ids": [
+        "1038097919245341"
+      ],
+      "snapshot_url_sample": "https://www.facebook.com/ads/library/?id=1038097919245341"
+    },
+    {
+      "primary_text": "O ciclo de Avaliação de Desempenho (AVD) acabou. Os dados foram coletados. E agora? 🤔\nPara muitos RHs, o pós-AVD é onde o desenvolvimento estratégico morre. O maior erro é achar que a avaliação é o fim da linha. Sem PDIs e feedbacks eficazes baseados nesses dados, todo o esforço do ciclo anterior é desperdiçado.\nCriamos um Whitepaper Exclusivo: \"RH no pós-AVD\". Um guia completo com dados, método e prática para você transformar a avaliação em desenvolvimento estratégico real. Aprenda a estruturar PDIs que funcionam e feedbacks que geram crescimento.\n📖 Visite nossa página e baixe o material gratuito\nBaixe gratuitamente",
+      "cards": 1,
+      "total_ads": 1,
+      "pages": [
+        "Mindsight"
+      ],
+      "video_durations": [
+        "estático"
+      ],
+      "ctas": [
+        "Download"
+      ],
+      "captions": [],
+      "first_started": "2026-08-14",
+      "library_ids": [
+        "2035769390383341"
+      ],
+      "snapshot_url_sample": "https://www.facebook.com/ads/library/?id=2035769390383341"
+    },
+    {
+      "primary_text": "Seu RH leva problemas ou respostas prontas para a mesa da diretoria? 📊\nUm RH comum espera o ciclo anual de pesquisa para entender o clima ou descobre que o turnover subiu só depois que os melhores talentos já saíram. Um RH de ponta antecipa o problema, cruza dados de engajamento e comportamento, e chega na reunião com o diagnóstico completo e o plano de ação desenhado.\nFazer isso exige tempo, equipe e orçamento... pelo menos até agora. A Mindsight se reinventou e aplicou Inteligência Artificial nativa em todos os processos de gente. Descomplique o operacional e ganhe a força analítica de um time inteiro, sem precisar aumentar o seu headcount.\n🎯 Preencha o formulário no link e descubra como o RH que só as grandes empresas tinham agora está ao seu alcance",
+      "cards": 1,
+      "total_ads": 1,
+      "pages": [
+        "Mindsight"
+      ],
+      "video_durations": [
+        "0:59"
+      ],
+      "ctas": [
+        "Learn more"
+      ],
+      "captions": [
+        "MINDSIGHT.COM.BR"
+      ],
+      "first_started": "2026-10-08",
+      "library_ids": [
+        "1617903149880012"
+      ],
+      "snapshot_url_sample": "https://www.facebook.com/ads/library/?id=1617903149880012"
+    },
+    {
+      "primary_text": "Minimize riscos em suas contratações!\nDescubra como escolher os talentos certos com testes efetivos. \nBaixe nosso e-book gratuito agora!\nBaixe o e-book gratuito",
+      "cards": 1,
+      "total_ads": 1,
+      "pages": [
+        "Mindsight"
+      ],
+      "video_durations": [
+        "estático"
+      ],
+      "ctas": [
+        "Download"
+      ],
+      "captions": [],
+      "first_started": "2026-08-14",
+      "library_ids": [
+        "1213018507676278"
+      ],
+      "snapshot_url_sample": "https://www.facebook.com/ads/library/?id=1213018507676278"
+    },
+    {
+      "primary_text": "A sua avaliação de desempenho é uma ferramenta de crescimento ou apenas um evento anual que todo mundo odeia? 🗓️\nEsperar 12 meses para dar um feedback é a receita perfeita para gerar ansiedade nos colaboradores e dados defasados para o RH. O mercado mudou, e a gestão de pessoas precisa acompanhar a velocidade do negócio.\nLançamos o E-book gratuito \"Gestão de Performance Contínua\". Nele, você vai descobrir como quebrar o ciclo engessado da avaliação anual e transformá-la em um processo de alinhamento e desenvolvimento constante.\nFim das surpresas no fim do ano. Decisões mais justas e embasadas o ano todo.\n📖 Acesse a nossa página e baixe o seu e-book agora mesmo\nBaixe gratuitamente",
+      "cards": 1,
+      "total_ads": 1,
+      "pages": [
+        "Mindsight"
+      ],
+      "video_durations": [
+        "estático"
+      ],
+      "ctas": [
+        "Download"
+      ],
+      "captions": [],
+      "first_started": "2026-08-14",
+      "library_ids": [
+        "4531902313719831"
+      ],
+      "snapshot_url_sample": "https://www.facebook.com/ads/library/?id=4531902313719831"
+    },
+    {
+      "primary_text": "Rotatividade afeta sua carteira!\nDescubra o impacto financeiro em segundos com nossa calculadora de Taxa de Turnover. \nGerencie melhor seus resultados agora! Baixe já!\nBaixe gratuitamente",
+      "cards": 1,
+      "total_ads": 1,
+      "pages": [
+        "Mindsight"
+      ],
+      "video_durations": [
+        "estático"
+      ],
+      "ctas": [
+        "Download"
+      ],
+      "captions": [],
+      "first_started": "2026-08-14",
+      "library_ids": [
+        "1392916882773561"
+      ],
+      "snapshot_url_sample": "https://www.facebook.com/ads/library/?id=1392916882773561"
+    },
+    {
+      "primary_text": "Se cada área da sua empresa trabalha de forma diferente, porque a avaliação de desempenho é igual para todos? \nPor muito tempo, personalizar avaliações significava multiplicar o trabalho do RH: mais competências para definir, mais públicos para organizar e mais formulários para configurar. Com a plataforma AI-Native da Mindsight, este processo mudou. \nA nossa Inteligência Artificial utiliza o contexto da sua empresa para estruturar competências e avaliações específicas para cada área. A equipa comercial pode ser avaliada de um modo e a tecnologia de outro, sem que o seu RH precise de criar tudo do zero. \nLiberte-se dos processos generalistas. Clique abaixo e agende uma demonstração guiada para ver a Mindsight em ação",
+      "cards": 1,
+      "total_ads": 1,
+      "pages": [
+        "Mindsight"
+      ],
+      "video_durations": [
+        "0:33"
+      ],
+      "ctas": [
+        "See details"
+      ],
+      "captions": [
+        "FB.ME"
+      ],
+      "first_started": "2026-09-29",
+      "library_ids": [
+        "1092227497106147"
+      ],
+      "snapshot_url_sample": "https://www.facebook.com/ads/library/?id=1092227497106147"
+    },
+    {
+      "primary_text": "Quantos planos de ação do seu último ciclo de avaliação de desempenho saíram realmente do papel? \nNa maioria das empresas, o processo é sempre o mesmo: sai o relatório, há uma reunião, todos concordam, mas chega segunda-feira e nada muda. O ciclo não pode terminar na apresentação dos resultados. É aí que o trabalho mais importante começa: o que fazer com essa informação? \nCom a plataforma AI-Native da Mindsight, o resultado de uma avaliação transforma-se num plano de ação estruturado, com responsáveis e prazos. Como a nossa IA acompanha o ciclo completo, ela usa o contexto da avaliação para construir os próximos passos e, no ciclo seguinte, esse plano volta como contexto para novas avaliações. \nTransforme a sua avaliação num processo contínuo e não apenas num relatório. Preencha o formulário e faça um tour guiado",
+      "cards": 1,
+      "total_ads": 1,
+      "pages": [
+        "Mindsight"
+      ],
+      "video_durations": [
+        "0:54"
+      ],
+      "ctas": [
+        "See details"
+      ],
+      "captions": [
+        "FB.ME"
+      ],
+      "first_started": "2026-09-30",
+      "library_ids": [
+        "1118142090749852"
+      ],
+      "snapshot_url_sample": "https://www.facebook.com/ads/library/?id=1118142090749852"
+    },
+    {
+      "primary_text": "O seu RH está sentado em uma mina de ouro de dados, mas continua tomando decisões no escuro? 🛑\nPesquisas de clima, avaliações de desempenho, feedbacks e histórico... Informação não falta na sua empresa. O verdadeiro desafio é o tempo que você gasta tentando conectar todas essas peças em planilhas para conseguir enxergar o cenário real.\nCom a nova plataforma AI-Native da Mindsight, você não começa nenhuma análise do zero. Nossa Inteligência Artificial cruza todo o contexto da sua empresa e conecta os pontos automaticamente. É como ter um especialista trabalhando ao seu lado que já entende a cultura, o histórico e os objetivos do seu negócio.\nPare de juntar dados manualmente e comece a pilotar a estratégia.\n🎯 Clique no link, faça um tour guiado pela plataforma e veja a tecnologia funcionando na prática",
+      "cards": 1,
+      "total_ads": 1,
+      "pages": [
+        "Mindsight"
+      ],
+      "video_durations": [
+        "0:43"
+      ],
+      "ctas": [
+        "See details"
+      ],
+      "captions": [
+        "CONTEUDOS.MINDSIGHT.COM.BR"
+      ],
+      "first_started": "2026-10-09",
+      "library_ids": [
+        "2023012001733195"
+      ],
+      "snapshot_url_sample": "https://www.facebook.com/ads/library/?id=2023012001733195"
+    },
+    {
+      "primary_text": "Preencher requisições de vagas é um processo moroso que frustra tanto os gestores como os profissionais de RH. Os gestores sabem quem querem contratar, mas transformar isso em competências, senioridade e requisitos claros acaba por se tornar um trabalho adicional e moroso. \nCom a plataforma Mindsight, este atrito desaparece. O gestor só precisa de explicar o que precisa através de um áudio. A nossa Inteligência Artificial organiza a informação, estrutura todos os requisitos e ainda sugere os perfis mais adequados para a função. \nDescubra na prática como a IA pode simplificar os processos da sua empresa, sem necessidade de falar com ninguém. \nPreencha o formulário e faça o seu tour guiado",
+      "cards": 1,
+      "total_ads": 1,
+      "pages": [
+        "Mindsight"
+      ],
+      "video_durations": [
+        "0:29"
+      ],
+      "ctas": [
+        "See details"
+      ],
+      "captions": [
+        "FB.ME"
+      ],
+      "first_started": "2026-10-19",
+      "library_ids": [
+        "4508843719371447"
+      ],
+      "snapshot_url_sample": "https://www.facebook.com/ads/library/?id=4508843719371447"
+    }
+  ],
+  "cards": [
+    {
+      "library_id": "2081132289246275",
+      "started": "2026-10-08",
+      "page_name": "Mindsight",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "Pergunta séria: o que você faria se todo o trabalho operacional do seu RH fosse resolvido em minutos? ⏱️\n\nA gente sabe que a pesquisa de clima não foi para frente e o plano de sucessão ficou para depois porque falta braço. O operacional consome todo o seu tempo. Mas com a Inteligência Artificial da Mindsight, isso deixou de ser um problema.\n\nVocê descreve o que precisa em formato de texto e a plataforma executa. Sentiu um problema no time comercial? A IA monta e dispara uma pesquisa de pulso anonimizada. Precisa de um ciclo de avaliação completo para a área de Tecnologia? A plataforma estrutura as competências e os prazos sem nenhuma parametrização manual. Você refina, ajusta e publica do seu jeito.\n\nTudo o que o RH sempre quis fazer, mas nunca teve tempo, agora é possível.\n\n🎯 Preencha o formulário no link e descubra como destravar o potencial estratégico da sua gestão de talentos",
+      "video_duration": "0:49",
+      "link_caption": "MINDSIGHT.COM.BR",
+      "cta_button": "Learn more",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=2081132289246275"
+    },
+    {
+      "library_id": "942538281908785",
+      "started": "2026-10-15",
+      "page_name": "Mindsight",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "O planejamento de 2027 já começou por aí? 👀\n\nNa nossa próxima masterclass, vamos compartilhar o que aprendemos apoiando empresas com dados e inteligência em gestão de pessoas, trazendo essa experiência para ajudar você a definir prioridades e planejar os próximos passos para 2027.\n\n🔗 Inscreva-se gratuitamente pelo link da bio!\n\n#estrategiaderh #metasrh",
+      "video_duration": null,
+      "link_caption": "CONTEUDOS.MINDSIGHT.COM.BR",
+      "cta_button": "Learn more",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=942538281908785"
+    },
+    {
+      "library_id": "2974272806247066",
+      "started": "2026-08-14",
+      "page_name": "Mindsight",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "Você sabe qual o impacto financeiro da rotatividade na sua empresa? \nCalcule sua Taxa de Turnover em segundos com a calculadora e gerencie melhor seus resultados. Baixe Agora Mesmo!\nBaixe gratuitamente",
+      "video_duration": null,
+      "link_caption": "",
+      "cta_button": "Download",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=2974272806247066"
+    },
+    {
+      "library_id": "2165703920961704",
+      "started": "2026-09-18",
+      "page_name": "Mindsight",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "Pergunta séria: o que você faria se todo o trabalho operacional do seu RH fosse resolvido em minutos? ⏱️\n\nA gente sabe que a pesquisa de clima não foi para frente e o plano de sucessão ficou para depois porque falta braço. O operacional consome todo o seu tempo. Mas com a Inteligência Artificial da Mindsight, isso deixou de ser um problema.\n\nVocê descreve o que precisa em formato de texto e a plataforma executa. Sentiu um problema no time comercial? A IA monta e dispara uma pesquisa de pulso anonimizada. Precisa de um ciclo de avaliação completo para a área de Tecnologia? A plataforma estrutura as competências e os prazos sem nenhuma parametrização manual. Você refina, ajusta e publica do seu jeito.\n\nTudo o que o RH sempre quis fazer, mas nunca teve tempo, agora é possível.\n\n🎯 Preencha o formulário no link e descubra como destravar o potencial estratégico da sua gestão de talentos",
+      "video_duration": "0:50",
+      "link_caption": "FB.ME",
+      "cta_button": "See details",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=2165703920961704"
+    },
+    {
+      "library_id": "991219887313157",
+      "started": "2026-09-22",
+      "page_name": "Mindsight",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "O que o RH sempre buscou foi ter tempo, estrutura e recursos para gerar impacto de verdade: participar das decisões do negócio, desenvolver lideranças, desenhar processos mais inteligentes e transformar dados em melhores decisões para as pessoas.\n\nÉ dessa percepção que nasce a nova plataforma da Mindsight.\n\nA partir de agora, apresentamos o nosso novo posicionamento e compartilhamos com você a visão que vai orientar os próximos passos da empresa: um em que a tecnologia deixa de ser uma ferramenta para automatizar tarefas e passa a ampliar a capacidade do RH de fazer o que antes parecia impossível.\n\nO RH como deve ser. Ao seu alcance.",
+      "video_duration": "0:38",
+      "link_caption": "CONTEUDOS.MINDSIGHT.COM.BR",
+      "cta_button": "See details",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=991219887313157"
+    },
+    {
+      "library_id": "1432870308770355",
+      "started": "2026-08-14",
+      "page_name": "Mindsight",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "Contratar os melhores talentos não adianta se a sua cultura os expulsa em menos de 6 meses. 🚪\n\nComo o seu RH tem medido o alinhamento cultural hoje? Se a resposta envolve \"intuição\", está na hora de elevar a maturidade da sua gestão.\n\nPreparamos um Whitepaper Exclusivo mostrando a ciência por trás de um Diagnóstico de Cultura eficiente. Entenda como transformar a essência da sua empresa em uma ferramenta de atração e engajamento.\n\n🔗 Clique aqui, visite nossa página e baixe o seu material gratuito\nBaixe gratuitamente",
+      "video_duration": null,
+      "link_caption": "",
+      "cta_button": "Download",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=1432870308770355"
+    },
+    {
+      "library_id": "1058522867071602",
+      "started": "2026-09-22",
+      "page_name": "Mindsight",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "seu RH leva problemas ou respostas prontas para a mesa da diretoria? 📊\n\nUm RH comum espera o ciclo anual de pesquisa para entender o clima ou descobre que o turnover subiu só depois que os melhores talentos já saíram. Um RH de ponta antecipa o problema, cruza dados de engajamento e comportamento, e chega na reunião com o diagnóstico completo e o plano de ação desenhado.\n\nFazer isso exige tempo, equipe e orçamento... pelo menos até agora. A Mindsight se reinventou e aplicou Inteligência Artificial nativa em todos os processos de gente. Descomplique o operacional e ganhe a força analítica de um time inteiro, sem precisar aumentar o seu headcount.\n\n🎯 Preencha o formulário no link e descubra como o RH que só as grandes empresas tinham agora está ao seu alcance",
+      "video_duration": "0:59",
+      "link_caption": "CONTEUDOS.MINDSIGHT.COM.BR",
+      "cta_button": "See details",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=1058522867071602"
+    },
+    {
+      "library_id": "1769883350859897",
+      "started": "2026-08-14",
+      "page_name": "Mindsight",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "Você sabe qual o impacto financeiro da rotatividade na sua empresa? \nCalcule sua Taxa de Turnover em segundos com a calculadora e gerencie melhor seus resultados. Baixe Agora Mesmo!\nBaixe gratuitamente",
+      "video_duration": null,
+      "link_caption": "",
+      "cta_button": "Download",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=1769883350859897"
+    },
+    {
+      "library_id": "1397301535662497",
+      "started": "2026-08-14",
+      "page_name": "Mindsight",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "Os melhores talentos estão desistindo do seu processo seletivo no meio do caminho? 🏃♂️💨\n\nA verdade é dura: um processo seletivo longo, sem clareza e com falhas de comunicação não testa a resiliência do candidato, apenas empurra os melhores profissionais direto para a concorrência. A experiência do candidato é o primeiro reflexo da cultura da sua empresa.\n\nPara te ajudar a auditar e otimizar cada etapa da sua contratação, criamos o Checklist da Jornada do Candidato. Um material prático e direto ao ponto para você identificar gargalos, reduzir fricções e parar de perder bons profissionais.\n\nTransforme sua atração de talentos.\n\n📋 Acesse a página e baixe o seu checklist gratuito agora mesmo\nBaixe gratuitamente",
+      "video_duration": null,
+      "link_caption": "",
+      "cta_button": "Download",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=1397301535662497"
+    },
+    {
+      "library_id": "2815357502157114",
+      "started": "2026-08-14",
+      "page_name": "Mindsight",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "O seu RH participa ativamente das decisões estratégicas ou apenas recebe o orçamento pronto da diretoria? 📊\n\nPara conquistar um lugar na mesa de decisões, o RH precisa falar a língua do negócio. Defender investimentos em pessoas exige mais do que boas intenções; exige a conexão clara entre contexto, indicadores e impacto financeiro.\n\nPreparamos o Guia definitivo de Planejamento e Orçamento de RH. Um e-book completo para você aprender a estruturar seu budget, prever custos de headcount e provar o ROI das suas ações de gestão de talentos.\n\nSaia do operacional e torne-se um parceiro estratégico do negócio.\n\n📖 Acesse a nossa página e baixe o e-book gratuitamente\nBaixe gratuitamente",
+      "video_duration": null,
+      "link_caption": "",
+      "cta_button": "Download",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=2815357502157114"
+    },
+    {
+      "library_id": "1038097919245341",
+      "started": "2026-10-15",
+      "page_name": "Mindsight",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "O RH passa dias conhecendo uma pessoa durante o processo seletivo e, depois da contratação, age como se nunca tivesse visto ela antes. 👀\n\nMas isso era passado ✋🏾. Com a Mindsight, os dados da seleção não morrem na admissão: eles continuam guiando decisões de desenvolvimento e performance ao longo da jornada.\n\nPraa gente, é aqui que a IA fica realmente interessante, quando ela não serve só para acelerar processos, mas para conectar o que o RH já sabe e transformar informação em decisão. 💜\n\nToque no botão para saber mais sobre a Mindsight.",
+      "video_duration": "1:52",
+      "link_caption": "CONTEUDOS.MINDSIGHT.COM.BR",
+      "cta_button": "See details",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=1038097919245341"
+    },
+    {
+      "library_id": "2035769390383341",
+      "started": "2026-08-14",
+      "page_name": "Mindsight",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "O ciclo de Avaliação de Desempenho (AVD) acabou. Os dados foram coletados. E agora? 🤔\n\nPara muitos RHs, o pós-AVD é onde o desenvolvimento estratégico morre. O maior erro é achar que a avaliação é o fim da linha. Sem PDIs e feedbacks eficazes baseados nesses dados, todo o esforço do ciclo anterior é desperdiçado.\n\nCriamos um Whitepaper Exclusivo: \"RH no pós-AVD\". Um guia completo com dados, método e prática para você transformar a avaliação em desenvolvimento estratégico real. Aprenda a estruturar PDIs que funcionam e feedbacks que geram crescimento.\n\n📖 Visite nossa página e baixe o material gratuito\nBaixe gratuitamente",
+      "video_duration": null,
+      "link_caption": "",
+      "cta_button": "Download",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=2035769390383341"
+    },
+    {
+      "library_id": "1617903149880012",
+      "started": "2026-10-08",
+      "page_name": "Mindsight",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "Seu RH leva problemas ou respostas prontas para a mesa da diretoria? 📊\n\nUm RH comum espera o ciclo anual de pesquisa para entender o clima ou descobre que o turnover subiu só depois que os melhores talentos já saíram. Um RH de ponta antecipa o problema, cruza dados de engajamento e comportamento, e chega na reunião com o diagnóstico completo e o plano de ação desenhado.\n\nFazer isso exige tempo, equipe e orçamento... pelo menos até agora. A Mindsight se reinventou e aplicou Inteligência Artificial nativa em todos os processos de gente. Descomplique o operacional e ganhe a força analítica de um time inteiro, sem precisar aumentar o seu headcount.\n\n🎯 Preencha o formulário no link e descubra como o RH que só as grandes empresas tinham agora está ao seu alcance",
+      "video_duration": "0:59",
+      "link_caption": "MINDSIGHT.COM.BR",
+      "cta_button": "Learn more",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=1617903149880012"
+    },
+    {
+      "library_id": "1213018507676278",
+      "started": "2026-08-14",
+      "page_name": "Mindsight",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "Minimize riscos em suas contratações!\nDescubra como escolher os talentos certos com testes efetivos. \nBaixe nosso e-book gratuito agora!\nBaixe o e-book gratuito",
+      "video_duration": null,
+      "link_caption": "",
+      "cta_button": "Download",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=1213018507676278"
+    },
+    {
+      "library_id": "4531902313719831",
+      "started": "2026-08-14",
+      "page_name": "Mindsight",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "A sua avaliação de desempenho é uma ferramenta de crescimento ou apenas um evento anual que todo mundo odeia? 🗓️\n\nEsperar 12 meses para dar um feedback é a receita perfeita para gerar ansiedade nos colaboradores e dados defasados para o RH. O mercado mudou, e a gestão de pessoas precisa acompanhar a velocidade do negócio.\n\nLançamos o E-book gratuito \"Gestão de Performance Contínua\". Nele, você vai descobrir como quebrar o ciclo engessado da avaliação anual e transformá-la em um processo de alinhamento e desenvolvimento constante.\n\nFim das surpresas no fim do ano. Decisões mais justas e embasadas o ano todo.\n\n📖 Acesse a nossa página e baixe o seu e-book agora mesmo\nBaixe gratuitamente",
+      "video_duration": null,
+      "link_caption": "",
+      "cta_button": "Download",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=4531902313719831"
+    },
+    {
+      "library_id": "1392916882773561",
+      "started": "2026-08-14",
+      "page_name": "Mindsight",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "Rotatividade afeta sua carteira!\nDescubra o impacto financeiro em segundos com nossa calculadora de Taxa de Turnover. \nGerencie melhor seus resultados agora! Baixe já!\nBaixe gratuitamente",
+      "video_duration": null,
+      "link_caption": "",
+      "cta_button": "Download",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=1392916882773561"
+    },
+    {
+      "library_id": "1092227497106147",
+      "started": "2026-09-29",
+      "page_name": "Mindsight",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "Se cada área da sua empresa trabalha de forma diferente, porque a avaliação de desempenho é igual para todos?  \n\nPor muito tempo, personalizar avaliações significava multiplicar o trabalho do RH: mais competências para definir, mais públicos para organizar e mais formulários para configurar. Com a plataforma AI-Native da Mindsight, este processo mudou.   \n\nA nossa Inteligência Artificial utiliza o contexto da sua empresa para estruturar competências e avaliações específicas para cada área. A equipa comercial pode ser avaliada de um modo e a tecnologia de outro, sem que o seu RH precise de criar tudo do zero.   \n\nLiberte-se dos processos generalistas. Clique abaixo e agende uma demonstração guiada para ver a Mindsight em ação.",
+      "video_duration": "0:33",
+      "link_caption": "FB.ME",
+      "cta_button": "See details",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=1092227497106147"
+    },
+    {
+      "library_id": "1118142090749852",
+      "started": "2026-09-30",
+      "page_name": "Mindsight",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "Quantos planos de ação do seu último ciclo de avaliação de desempenho saíram realmente do papel? \n\nNa maioria das empresas, o processo é sempre o mesmo: sai o relatório, há uma reunião, todos concordam, mas chega segunda-feira e nada muda. O ciclo não pode terminar na apresentação dos resultados. É aí que o trabalho mais importante começa: o que fazer com essa informação? \n\nCom a plataforma AI-Native da Mindsight, o resultado de uma avaliação transforma-se num plano de ação estruturado, com responsáveis e prazos. Como a nossa IA acompanha o ciclo completo, ela usa o contexto da avaliação para construir os próximos passos e, no ciclo seguinte, esse plano volta como contexto para novas avaliações. \n\nTransforme a sua avaliação num processo contínuo e não apenas num relatório. Preencha o formulário e faça um tour guiado.",
+      "video_duration": "0:54",
+      "link_caption": "FB.ME",
+      "cta_button": "See details",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=1118142090749852"
+    },
+    {
+      "library_id": "2023012001733195",
+      "started": "2026-10-09",
+      "page_name": "Mindsight",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "O seu RH está sentado em uma mina de ouro de dados, mas continua tomando decisões no escuro? 🛑\n\nPesquisas de clima, avaliações de desempenho, feedbacks e histórico... Informação não falta na sua empresa. O verdadeiro desafio é o tempo que você gasta tentando conectar todas essas peças em planilhas para conseguir enxergar o cenário real.\n\nCom a nova plataforma AI-Native da Mindsight, você não começa nenhuma análise do zero. Nossa Inteligência Artificial cruza todo o contexto da sua empresa e conecta os pontos automaticamente. É como ter um especialista trabalhando ao seu lado que já entende a cultura, o histórico e os objetivos do seu negócio.\n\nPare de juntar dados manualmente e comece a pilotar a estratégia.\n\n🎯 Clique no link, faça um tour guiado pela plataforma e veja a tecnologia funcionando na prática.",
+      "video_duration": "0:43",
+      "link_caption": "CONTEUDOS.MINDSIGHT.COM.BR",
+      "cta_button": "See details",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=2023012001733195"
+    },
+    {
+      "library_id": "4508843719371447",
+      "started": "2026-10-19",
+      "page_name": "Mindsight",
+      "group_size": 1,
+      "low_impressions": false,
+      "primary_text": "Preencher requisições de vagas é um processo moroso que frustra tanto os gestores como os profissionais de RH. Os gestores sabem quem querem contratar, mas transformar isso em competências, senioridade e requisitos claros acaba por se tornar um trabalho adicional e moroso.   \n\nCom a plataforma Mindsight, este atrito desaparece. O gestor só precisa de explicar o que precisa através de um áudio. A nossa Inteligência Artificial organiza a informação, estrutura todos os requisitos e ainda sugere os perfis mais adequados para a função.   \n\nDescubra na prática como a IA pode simplificar os processos da sua empresa, sem necessidade de falar com ninguém. \n\nPreencha o formulário e faça o seu tour guiado.",
+      "video_duration": "0:29",
+      "link_caption": "FB.ME",
+      "cta_button": "See details",
+      "snapshot_url": "https://www.facebook.com/ads/library/?id=4508843719371447"
+    }
+  ]
+}

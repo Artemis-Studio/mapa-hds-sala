@@ -1,0 +1,103 @@
+{
+ "carousel": "carrossel-3-habitos-psicologa",
+ "handle": "@mapahds",
+ "totalSlides": 10,
+ "slides": [
+  {
+   "n": 1,
+   "kind": "cover",
+   "withImage": true,
+   "image": "assets/c3-capa.jpg",
+   "coverBlock": "Você aplica a avaliação, escreve o parecer, e a decisão sai sem ele.\n\n__5 hábitos__ que fazem a avaliação ser ouvida.",
+   "coverHook": "Manda pra uma colega de RH."
+  },
+  {
+   "n": 2,
+   "kind": "scene",
+   "eyebrow": "Hábito 1 · Pergunta",
+   "title": "Comece pela __decisão__ que o gestor precisa tomar.",
+   "body": "Antes de aplicar qualquer instrumento, pergunte: **o que você precisa decidir?** Contratar, promover, montar sucessão, entender um conflito na equipe.\n\nA pergunta define o que olhar no resultado. Sem ela, o parecer responde coisas que ninguém perguntou e deixa de fora a única que importava."
+  },
+  {
+   "n": 3,
+   "kind": "narrative",
+   "withImage": true,
+   "image": "assets/c3-gestor.jpg",
+   "eyebrow": "Hábito 2 · Tradução",
+   "title": "Escreva em comportamento no cargo.",
+   "body": "\"Escore alto em estabilidade emocional\" não ajuda o gestor. \"Tende a manter a calma quando a operação aperta e a equipe cobra resposta\" ajuda.\n\nTraduza cada achado em **comportamento observável** no dia a dia daquela função. O gestor entende, confia e usa."
+  },
+  {
+   "n": 4,
+   "kind": "scene",
+   "eyebrow": "Hábito 3 · Traço e momento",
+   "title": "Separe o que é __traço__ do que é momento.",
+   "body": "Personalidade é o que tende a se repetir ao longo do tempo. Uma pessoa avaliada logo depois de uma demissão ou de um luto pode responder de um jeito que não é o padrão dela.\n\nRegistrar esse **contexto** no parecer protege a pessoa de ser julgada por uma fase. E protege a empresa de uma leitura errada."
+  },
+  {
+   "n": 5,
+   "kind": "narrative",
+   "withImage": true,
+   "image": "assets/c3-devolutiva.jpg",
+   "eyebrow": "Hábito 4 · Devolutiva",
+   "title": "Faça a devolutiva com quem foi avaliado.",
+   "body": "A pessoa respondeu dezenas de perguntas sobre si mesma. Ela merece saber o que apareceu, explicado com cuidado e sem rótulo.\n\nA devolutiva também **valida a leitura**. Quando a pessoa reconhece o que foi descrito, você ganha confiança no resultado. Quando não reconhece, aparece um ponto que vale investigar."
+  },
+  {
+   "n": 6,
+   "kind": "scene",
+   "eyebrow": "Hábito 5 · Retorno",
+   "title": "Volte ao caso __seis meses__ depois.",
+   "body": "Marque na agenda: como está a pessoa que você indicou? O comportamento previsto apareceu no trabalho?\n\nEsse retorno é o que transforma o seu parecer em **histórico de acerto**. Com alguns casos registrados, você chega na próxima conversa com a diretoria trazendo evidência da sua própria prática."
+  },
+  {
+   "n": 7,
+   "kind": "principle",
+   "eyebrow": "Por que isso importa",
+   "title": "A avaliação ganha peso quando muda uma __decisão__.",
+   "body": "Um parecer tecnicamente perfeito que ninguém usa não ajuda a empresa nem a pessoa avaliada. Os cinco hábitos fazem o trabalho da psicologia **chegar na decisão**.\n\nE quem chega na decisão passa a ser chamada antes dela, na próxima vaga, na próxima promoção, no próximo conflito."
+  },
+  {
+   "n": 8,
+   "kind": "scene",
+   "eyebrow": "Como começar",
+   "title": "Escolha uma avaliação desta semana e mude __só o parecer__.",
+   "body": "Antes de escrever, anote a decisão que o gestor precisa tomar. Depois, reescreva cada achado em comportamento no cargo.\n\nMostre as duas versões pro gestor e pergunte: **com qual delas você decidiria?**"
+  },
+  {
+   "n": 9,
+   "kind": "offer",
+   "eyebrow": "Feita por psicólogos",
+   "title": "A Mapa foi feita por psicólogos, pra esse trabalho.",
+   "pastaList": [
+    [
+     "Time",
+     "mais de 80% dos profissionais da Mapa são psicólogos"
+    ],
+    [
+     "Instrumento",
+     "Teste de Personalidade com até **48 traços**, lido no contexto do cargo"
+    ],
+    [
+     "Sob medida",
+     "competências da empresa parametrizadas dentro do teste"
+    ],
+    [
+     "Formação",
+     "certificação e treinamento online, presencial e no seu ritmo"
+    ],
+    [
+     "Escala",
+     "mais de **1 milhão de avaliações** aplicadas"
+    ]
+   ]
+  },
+  {
+   "n": 10,
+   "kind": "cta",
+   "eyebrow": "Próximo passo",
+   "title": "Segue a __Mapa__",
+   "ctaCall": "pra receber mais conteúdo técnico pra quem avalia pessoas."
+  }
+ ]
+}

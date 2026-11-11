@@ -1,0 +1,174 @@
+{
+  "destinos_total": 6,
+  "lidos": 6,
+  "paginas": [
+    {
+      "url": "https://zenklub.com.br/site/nr1/paper-nr1",
+      "ads": null,
+      "url_final": "https://zenklub.com.br/site/nr1/paper-nr1",
+      "titulo": "Paper NR-1",
+      "descricao": "Cuidar da saúde mental dos colaboradores é cuidar da saúde da empresa. Conte com Zenklub para ter um ecossistema que integra dados, inteligência e apoio profissional.",
+      "arquivo_texto": "1-zenklub.com.br.txt",
+      "h1": [
+        "Valorizamos sua privacidade",
+        "Personalizar",
+        "Rejeitar"
+      ],
+      "precos": [],
+      "checkout": [
+        "stripe"
+      ],
+      "whatsapp": [],
+      "formularios": [],
+      "contador": false,
+      "builder": [
+        "webflow",
+        "elementor"
+      ],
+      "links_de_checkout": [],
+      "caracteres": 1473
+    },
+    {
+      "url": "https://enterprise.indexmed.com.br/curso-nr1",
+      "ads": null,
+      "url_final": "https://enterprise.indexmed.com.br/curso-nr1",
+      "titulo": "INDEXMED - CURSO NR1",
+      "descricao": "Aulas 100% online para capacitar seu RH e SST, adequar seu PGR às exigências da fiscalização e emitir seu certificado.",
+      "arquivo_texto": "2-enterprise.indexmed.com.br.txt",
+      "h1": [
+        "Comprar com desconto!",
+        "► CURSO ONLINE DE ADEQUAÇÃO À NR-1",
+        "Aprenda a mapear e gerenciar Riscos Psicossociais na prática."
+      ],
+      "precos": [],
+      "checkout": [],
+      "whatsapp": [],
+      "formularios": [],
+      "contador": false,
+      "builder": [
+        "greatpages"
+      ],
+      "links_de_checkout": [],
+      "caracteres": 792
+    },
+    {
+      "url": "https://solides.com.br/nr1/",
+      "ads": null,
+      "url_final": "https://solides.com.br/nr1/",
+      "titulo": "Página não encontrada - Sólides",
+      "descricao": "",
+      "arquivo_texto": "3-solides.com.br.txt",
+      "h1": [
+        "Termos de Uso",
+        "Rejeitar",
+        "Aceitar"
+      ],
+      "precos": [],
+      "checkout": [],
+      "whatsapp": [
+        "https://api.whatsapp.com/send/?phone=%2B553171262283&text=Ol%C3%A1%21+Quero+conhecer+a+Plataforma+S%C3%B3lides&type=phone_number&app_absent=0"
+      ],
+      "formularios": [
+        [
+          "E-mail pessoal*",
+          "Empresa*",
+          "CNPJ*",
+          "CPF*"
+        ]
+      ],
+      "contador": false,
+      "builder": [
+        "wordpress",
+        "elementor"
+      ],
+      "links_de_checkout": [],
+      "caracteres": 1894
+    },
+    {
+      "url": "https://wellhub.com/pt-br/nr-01/",
+      "ads": null,
+      "url_final": "https://wellhub.com/pt-br/nr-01/",
+      "titulo": "404 - Page Not Found | Wellhub",
+      "descricao": "",
+      "arquivo_texto": "4-wellhub.com.txt",
+      "h1": [
+        "Procurar academias e apps",
+        "Planos e preços",
+        "Para empresas"
+      ],
+      "precos": [],
+      "checkout": [],
+      "whatsapp": [
+        "http://wa.me/551124241451"
+      ],
+      "formularios": [],
+      "contador": false,
+      "builder": [],
+      "links_de_checkout": [],
+      "caracteres": 1150
+    },
+    {
+      "url": "https://conteudos.mindsight.com.br/calculadora-custo-turnover",
+      "ads": null,
+      "url_final": "https://conteudos.mindsight.com.br/calculadora-custo-turnover",
+      "titulo": "Calculadora: custo de turnover",
+      "descricao": "Saiba exatamente como calcular turnover e entenda o custo disso para a sua organização de forma prática!",
+      "arquivo_texto": "5-conteudos.mindsight.com.br.txt",
+      "h1": [
+        "Aceitar",
+        "Planilha interativa",
+        "Calculadora de turnover: descubra quanto a rotatividade custa para sua empresa"
+      ],
+      "precos": [],
+      "checkout": [],
+      "whatsapp": [],
+      "formularios": [
+        [
+          "Primeiro nome",
+          "O último sobrenome",
+          "email",
+          "mobilephone",
+          "numemployees",
+          "tipo_de_cargo",
+          "em_qual_area_do_rh_voce_trabalha_"
+        ]
+      ],
+      "contador": false,
+      "builder": [
+        "lovable"
+      ],
+      "links_de_checkout": [],
+      "caracteres": 2844
+    },
+    {
+      "url": "https://zenklub.com.br/site/campanhas-2026/premium",
+      "ads": null,
+      "url_final": "https://zenklub.com.br/site/campanhas-2026/premium",
+      "titulo": "Zenklub Premium",
+      "descricao": "Solução completa de saúde emocional corporativa: terapia, treinamento de gestores, atendimento 24/7 e dados estratégicos. Conforme NR-1.",
+      "arquivo_texto": "6-zenklub.com.br.txt",
+      "h1": [
+        "Valorizamos sua privacidade",
+        "Personalizar",
+        "Rejeitar"
+      ],
+      "precos": [
+        "R$ 769",
+        "R$ 537"
+      ],
+      "checkout": [
+        "stripe",
+        "yampi"
+      ],
+      "whatsapp": [],
+      "formularios": [],
+      "contador": false,
+      "builder": [
+        "webflow",
+        "elementor"
+      ],
+      "links_de_checkout": [],
+      "caracteres": 4480
+    }
+  ]
+}
